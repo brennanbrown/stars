@@ -1,7 +1,7 @@
 name: update awesome-stars
 on:
   schedule:
-  - cron: 30 0 * * *
+  - cron: 0 12 * * 1
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -19,4 +19,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username brennanbrown --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'Update README.md by github actions cron'
+      run: starred --username brennanbrown --repository stars --sort --token ${GITHUB_TOKEN} --message 'Update README.md with latest stars'
