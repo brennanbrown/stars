@@ -14,6 +14,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Liquid](#liquid)
   - [Makefile](#makefile)
   - [Nunjucks](#nunjucks)
   - [Others](#others)
@@ -24,6 +25,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## C 
 
@@ -54,6 +56,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 
 ## Elixir 
@@ -68,11 +71,12 @@
 
 ## HTML 
 
+- [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 - [cfjedimaster/the-jamstack-book](https://github.com/cfjedimaster/the-jamstack-book) - Repository for our book, The Jamstack Book.
 - [javierjulio/javierjulio.github.io](https://github.com/javierjulio/javierjulio.github.io) - Personal site built in Jekyll and Github Pages
-- [roughike/welcomments-blog](https://github.com/roughike/welcomments-blog) - The blog at https://blog.welcomments.io
+- [roughike/welcomments-blog](https://github.com/roughike/welcomments-blog) - The legacy blog for Welcomments. See here for the new one: https://github.com/welcomments/website
 - [rainleander/rainleander.github.io](https://github.com/rainleander/rainleander.github.io) - Where I keep track of the progress of four expansion projects that will probably last the next two years. Or so. And my CV.
 - [geshan/geshan.github.com](https://github.com/geshan/geshan.github.com) - Blog hosted on GitHub pages, built with eleventy
 - [alexandersandberg/a11yana](https://github.com/alexandersandberg/a11yana) - A classless CSS framework with a focus on accessibility
@@ -105,6 +109,7 @@
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [vladkinoman/just-my-notes](https://github.com/vladkinoman/just-my-notes) - Just my awesome notes :sunglasses:
+- [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [busterbenson/hydra](https://github.com/busterbenson/hydra) - A personal mythology that helps us grow even when things are chaotic.
 
 ## Haskell 
@@ -135,7 +140,6 @@
 - [nhoizey/nicolas-hoizey.com](https://github.com/nhoizey/nicolas-hoizey.com) - The personal website/blog from Nicolas Hoizey, built with https://pack11ty.dev/
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 🔨  [WIP] - An opinionated workflow for building modern Jamstack (static) websites
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [huytd/taskedit](https://github.com/huytd/taskedit) - :pencil: an online notepad that only support markdown... lol
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [ehowey/gatsby-theme-empty](https://github.com/ehowey/gatsby-theme-empty) - An empty template for a lightning fast Gatsby themes monorepo setup. Ready to be filled up with awesomeness!
@@ -165,6 +169,10 @@
 - [busterbenson/notes](https://github.com/busterbenson/notes) - 
 - [beeminder/apidocs](https://github.com/beeminder/apidocs) - Beeminder API Reference
 
+## Liquid 
+
+- [cfjedimaster/eleventy-blog-guide](https://github.com/cfjedimaster/eleventy-blog-guide) - The repository for my guide on building a blog with Eleventy
+
 ## Makefile 
 
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
@@ -177,7 +185,7 @@
 - [accessibility-in-action/co-design](https://github.com/accessibility-in-action/co-design) - The co-design website for Accessibility in Action.
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [siakaramalegos/sia.codes-eleventy](https://github.com/siakaramalegos/sia.codes-eleventy) - Eleventy version of my personal site
-- [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - My portfolio website and blog
+- [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - ✨ Portfolio website and blog
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [reeseschultz/11r](https://github.com/reeseschultz/11r) - America's favorite Eleventy blog template.
@@ -185,6 +193,7 @@
 
 ## Others 
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
@@ -239,7 +248,6 @@
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 
 ## Ruby 
 
@@ -288,8 +296,10 @@
 
 ## TypeScript 
 
+- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - Track everything in daily notes
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -298,6 +308,10 @@
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
+
+## Vue 
+
+- [JulienVanelian/nuxtjs-graphcms-sakura-starter](https://github.com/JulienVanelian/nuxtjs-graphcms-sakura-starter) - Simple blog starter template using Nuxt.js, GraphCMS and Sakura.css
 
 
 ## License
