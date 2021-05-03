@@ -33,6 +33,9 @@
 
 ## CSS 
 
+- [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
+- [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
@@ -66,11 +69,17 @@
 
 ## Go 
 
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
 ## HTML 
 
+- [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
+- [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
+- [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
+- [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
+- [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
+- [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
 - [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
@@ -87,11 +96,10 @@
 - [digitalgardeners/site](https://github.com/digitalgardeners/site) - The public site for the Digital Gardeners' digital garden, built with the notes from the notes repository.
 - [jekyller/jasper2](https://github.com/jekyller/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
-- [ImJasonH/quit.social](https://github.com/ImJasonH/quit.social) - Just stay off the internet
+- [imjasonh/quit.social](https://github.com/imjasonh/quit.social) - Just stay off the internet
 - [victoriadrake/neocities-neofeed](https://github.com/victoriadrake/neocities-neofeed) - Create your personal feed on Neocities. It's better than Twitter.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
-- [scottishstoater/jamstack-web-starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.
 - [victoriadrake/victoriadrake.github.io](https://github.com/victoriadrake/victoriadrake.github.io) - 🌱 Victoria's autonomous self-improving blockchain-fortified AI static website
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [edvb/projectmhea.org](https://github.com/edvb/projectmhea.org) - Website of Mental Health for Every Adolescent
@@ -122,11 +130,16 @@
 
 ## JavaScript 
 
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+- [yenly/foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
+- [derekkedziora/jekyll-demo](https://github.com/derekkedziora/jekyll-demo) - A demo Jekyll site: dark mode, random posts and a tag page
+- [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
+- [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [nhoizey/knowledge-base](https://github.com/nhoizey/knowledge-base) - My own slightly opinionated knowledge base
-- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [radogado/niui](https://github.com/radogado/niui) - Lightweight, feature-rich, accessible front-end library
 - [AfroDevGirl/full-stack-accessibility](https://github.com/AfroDevGirl/full-stack-accessibility) - An example application for full stack accessibility
@@ -152,7 +165,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 - [jamstack-cms/jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) - A starter project for building performant ECommerce applications with Next.js and React
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - The mutant combination of Grunt.js and Eleventy currently powering zachleat.com
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project
@@ -188,11 +200,13 @@
 - [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - ✨ Portfolio website and blog
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
+- [scottishstoater/jamstack-web-starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.
 - [reeseschultz/11r](https://github.com/reeseschultz/11r) - America's favorite Eleventy blog template.
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 
 ## Others 
 
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -238,6 +252,7 @@
 
 ## Python 
 
+- [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bminusl/awesome-hackernews](https://github.com/bminusl/awesome-hackernews) - A curated list of FOSS tools to improve the Hacker News experience
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -251,6 +266,7 @@
 
 ## Ruby 
 
+- [philnash/jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web Monetization API payment pointers to your site
 - [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging) - Jekyll plugin to automatically generate a tag cloud and tag pages.
 - [benbarber/jekyll-instagram](https://github.com/benbarber/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -296,7 +312,9 @@
 
 ## TypeScript 
 
-- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - Track everything in daily notes
+- [kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count) - Beeminder integration with Obsidian, so that your word count in Obsidian contributes to your writing goals.
+- [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
+- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
@@ -305,6 +323,7 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - My personal portfolio ⚡ built with Gatsbyjs
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
