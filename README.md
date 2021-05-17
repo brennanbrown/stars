@@ -33,6 +33,7 @@
 
 ## CSS 
 
+- [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
@@ -74,6 +75,7 @@
 
 ## HTML 
 
+- [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
 - [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
 - [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
@@ -130,6 +132,8 @@
 
 ## JavaScript 
 
+- [studiolampblack/typographical-hugo](https://github.com/studiolampblack/typographical-hugo) - The Hugo port of the Typographical Jekyll theme
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [StaticMania/blogge-hugo-theme](https://github.com/StaticMania/blogge-hugo-theme) - Blogge is a clean and minimal blog hugo theme suitable for someone with easy creative features and effects who wants to create a personal blog site to make readers enjoy the pleasure of reading blog posts and blogs.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [yenly/foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
@@ -163,7 +167,7 @@
 - [stowball/elf](https://github.com/stowball/elf) - Elf is a simple & magical Eleventy starter kit to help you create a project using standard technologies like webpack, Babel and Sass, while also considering ease of use, performance and browser compatibility.
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
 - [MadeByMike/supermaya](https://github.com/MadeByMike/supermaya) - 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jamstack-cms/jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) - A starter project for building performant ECommerce applications with Next.js and React
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - The mutant combination of Grunt.js and Eleventy currently powering zachleat.com
@@ -283,6 +287,8 @@
 
 ## SCSS 
 
+- [reangdeba/reangdeba.xyz](https://github.com/reangdeba/reangdeba.xyz) - :earth_asia: Personal website running on Jekyll.
+- [esporo/steve](https://github.com/esporo/steve) - A charming and fun blog theme for Jekyll.
 - [cehfisher/a11y-style-guide](https://github.com/cehfisher/a11y-style-guide) - Accessibility (A11Y) Style Guide
 - [ixkaito/frasco](https://github.com/ixkaito/frasco) - Quick starter for Jekyll including full setup for Sass, PostCSS, Autoprefixer, stylelint, Webpack, ESLint, imagemin, Browsersync, etc.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -301,6 +307,7 @@
 
 ## Shell 
 
+- [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [davidbailey00/notion-linux](https://github.com/davidbailey00/notion-linux) - Native Notion packages for Linux
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
