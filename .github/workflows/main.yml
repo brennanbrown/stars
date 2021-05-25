@@ -20,4 +20,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username brennanbrown --repository stars --sort --token ${GITHUB_TOKEN} --message 'Update README.md with latest stars' && starred --username brennanbrown --repository stars --sort --token ${GITHUB_TOKEN} --message 'Update README.md with latest stars' > index.md
+      run: starred --username brennanbrown --repository stars --sort --token ${GITHUB_TOKEN} --message 'Update README.md with latest stars'
