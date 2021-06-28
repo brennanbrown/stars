@@ -34,6 +34,7 @@
 
 ## CSS 
 
+- [gerardbm/sigma-theme](https://github.com/gerardbm/sigma-theme) - Website theme for Jekyll v4.0.0
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
@@ -72,11 +73,12 @@
 
 ## Go 
 
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
 ## HTML 
 
+- [mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme) - Clean knowledge sharing jekyll theme
 - [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
 - [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
@@ -94,7 +96,6 @@
 - [geshan/geshan.github.com](https://github.com/geshan/geshan.github.com) - Blog hosted on GitHub pages, built with eleventy
 - [alexandersandberg/a11yana](https://github.com/alexandersandberg/a11yana) - A classless CSS framework with a focus on accessibility
 - [philhawksworth/hawksworx.com](https://github.com/philhawksworth/hawksworx.com) - My hawksworx.com blog site, powered by Eleventy and Netlify
-- [mattwaler/overpass.mattwaler.com](https://github.com/mattwaler/overpass.mattwaler.com) - A personalized pair programming service.
 - [nsmsn/nicksimsondotcom](https://github.com/nsmsn/nicksimsondotcom) - Just another personal site built with Eleventy
 - [digitalgardeners/site](https://github.com/digitalgardeners/site) - The public site for the Digital Gardeners' digital garden, built with the notes from the notes repository.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
@@ -132,6 +133,7 @@
 
 ## JavaScript 
 
+- [tcbutler320/jek](https://github.com/tcbutler320/jek) - Jek is a minimalist jekyll theme putting the power of color schemes in the user’s hands. Toggle between schemes hassle-free, create new ones on the go, and store settings in-browser.
 - [studiolampblack/typographical-hugo](https://github.com/studiolampblack/typographical-hugo) - The Hugo port of the Typographical Jekyll theme
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [StaticMania/blogge-hugo-theme](https://github.com/StaticMania/blogge-hugo-theme) - Blogge is a clean and minimal blog hugo theme suitable for someone with easy creative features and effects who wants to create a personal blog site to make readers enjoy the pleasure of reading blog posts and blogs.
@@ -214,6 +216,8 @@
 
 ## Others 
 
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [learn-anything/reddit](https://github.com/learn-anything/reddit) - Awesome Reddit subreddits
@@ -269,6 +273,7 @@
 
 ## Python 
 
+- [frnsys/port](https://github.com/frnsys/port) - lightweight blogging platform
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
