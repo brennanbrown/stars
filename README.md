@@ -77,6 +77,7 @@
 
 ## HTML 
 
+- [berviantoleo/berviantoleo.github.io](https://github.com/berviantoleo/berviantoleo.github.io) - Personal Blog & Customized Own Themes Jekyll using Bulma
 - [mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme) - Clean knowledge sharing jekyll theme
 - [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
@@ -101,7 +102,6 @@
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
 - [imjasonh/quit.social](https://github.com/imjasonh/quit.social) - Just stay off the internet
 - [victoriadrake/neocities-neofeed](https://github.com/victoriadrake/neocities-neofeed) - Create your personal feed on Neocities. It's better than Twitter.
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [victoriadrake/victoriadrake.github.io](https://github.com/victoriadrake/victoriadrake.github.io) - 🌱 Victoria's autonomous self-improving blockchain-fortified AI static website
 - [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -158,7 +158,7 @@
 - [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [nhoizey/nicolas-hoizey.com](https://github.com/nhoizey/nicolas-hoizey.com) - The personal website/blog from Nicolas Hoizey, built with https://pack11ty.dev/
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
-- [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 🔨  [WIP] - An opinionated workflow for building modern Jamstack (static) websites
+- [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 📖   An opinionated workflow for building modern Jamstack (static) websites
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - Header anchors for markdown-it.
 - [huytd/taskedit](https://github.com/huytd/taskedit) - :pencil: an online notepad that only support markdown... lol
@@ -215,6 +215,7 @@
 
 ## Others 
 
+- [amitness/learning](https://github.com/amitness/learning) - Becoming better at data science every day
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -316,6 +317,7 @@
 - [5t3ph/11ty-rocks](https://github.com/5t3ph/11ty-rocks) - A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph)
 - [Aspiring-Writer/libretto-book](https://github.com/Aspiring-Writer/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript. Built with a mobile-first responsive design.
 - [dpstrange/jekyll-piratesec](https://github.com/dpstrange/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
