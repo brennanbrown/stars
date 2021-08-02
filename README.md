@@ -39,7 +39,6 @@
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
-- [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with Eleventy.
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
@@ -63,7 +62,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 
 ## Elixir 
@@ -114,7 +113,7 @@
 - [sziv2p/jekyll-theme-scaffold](https://github.com/sziv2p/jekyll-theme-scaffold) - A minimalist yet powerful Jekyll theme for bloggers
 - [acgd-learn-the-web/jekyll-code](https://github.com/acgd-learn-the-web/jekyll-code) - Code samples for the Jekyll tutorial.
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
-- [raghuveerdotnet/simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
+- [rgvr/simply-jekyll](https://github.com/rgvr/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -215,6 +214,8 @@
 
 ## Others 
 
+- [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! List of most active GitHub users based on public contributions. private contributions, and number of followers by country. Don't forget to star ⭐ this repository.
 - [amitness/learning](https://github.com/amitness/learning) - Becoming better at data science every day
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
@@ -224,7 +225,7 @@
 - [learn-anything/reddit](https://github.com/learn-anything/reddit) - Awesome Reddit subreddits
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -309,6 +310,7 @@
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [ixkaito/frasco](https://github.com/ixkaito/frasco) - Quick starter for Jekyll including full setup for Sass, PostCSS, Autoprefixer, stylelint, TypeScript, Webpack, ESLint, imagemin, Browsersync, etc.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with Eleventy.
 - [inclusive-design/co-design.inclusivedesign.ca](https://github.com/inclusive-design/co-design.inclusivedesign.ca) - The source files for the Community-Led Co-design Kit.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
 - [arpitbatra123/personal-website](https://github.com/arpitbatra123/personal-website) - my place on the interwebz
