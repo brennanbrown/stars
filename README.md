@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Liquid](#liquid)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Nunjucks](#nunjucks)
   - [Others](#others)
   - [PHP](#php)
@@ -210,10 +211,14 @@
 
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nunjucks 
 
 - [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
-- [accessibility-in-action/co-design](https://github.com/accessibility-in-action/co-design) - The co-design website for Accessibility in Action.
+- [accessibility-exchange/co-design](https://github.com/accessibility-exchange/co-design) - The co-design website for The Accessibility Exchange.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [philhawksworth/hawksworx.com](https://github.com/philhawksworth/hawksworx.com) - My hawksworx.com blog site, powered by Eleventy and Netlify
@@ -288,6 +293,8 @@
 
 ## PHP 
 
+- [ActionRetro/68k-news](https://github.com/ActionRetro/68k-news) - Source for the 68k.news site
+- [ActionRetro/FrogFind](https://github.com/ActionRetro/FrogFind) - Source for the FrogFind search engine for vintage computers
 - [raamdev/independent-publisher](https://github.com/raamdev/independent-publisher) - A beautiful reader-focused WordPress theme, for you.
 
 ## PowerShell 
@@ -324,7 +331,7 @@
 ## Rust 
 
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## SCSS 
 
