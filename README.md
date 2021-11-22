@@ -68,7 +68,7 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
 
 ## Elixir 
 
@@ -92,7 +92,6 @@
 - [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
 - [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
-- [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
 - [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
@@ -205,7 +204,9 @@
 ## Liquid 
 
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
+- [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
 - [cfjedimaster/eleventy-blog-guide](https://github.com/cfjedimaster/eleventy-blog-guide) - The repository for my guide on building a blog with Eleventy
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 
 ## Makefile 
 
@@ -350,7 +351,6 @@
 - [5t3ph/11ty-rocks](https://github.com/5t3ph/11ty-rocks) - A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph)
 - [Aspiring-Writer/libretto-book](https://github.com/Aspiring-Writer/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
