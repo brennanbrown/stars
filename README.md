@@ -42,7 +42,7 @@
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
@@ -355,7 +355,7 @@
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
-- [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
+- [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - sMy online resume and blog, created with 11ty, Sass, and JavaScript.
 - [dpstrange/jekyll-piratesec](https://github.com/dpstrange/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [FoamFactory/bubbling-ale](https://github.com/FoamFactory/bubbling-ale) - A Jekyll theme inspired by beer
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
