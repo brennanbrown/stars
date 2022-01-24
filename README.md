@@ -232,6 +232,7 @@
 
 ## Others 
 
+- [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
