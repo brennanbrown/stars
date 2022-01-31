@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ASL](#asl)
   - [C](#c)
   - [CSS](#css)
   - [Clojure](#clojure)
@@ -29,6 +30,10 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+
+## ASL 
+
+- [banhbaoxamlan/X230-Hackintosh](https://github.com/banhbaoxamlan/X230-Hackintosh) - READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh
 
 ## C 
 
@@ -140,6 +145,7 @@
 
 ## JavaScript 
 
+- [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is on your mind on a daily basis. Join the discord at https://discord.gg/uNjJzZvccr
@@ -232,6 +238,7 @@
 
 ## Others 
 
+- [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -325,6 +332,8 @@
 
 ## Ruby 
 
+- [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) - Add [[wikilinks]] support for jekyll.
+- [aarongustafson/jekyll-webmention_io](https://github.com/aarongustafson/jekyll-webmention_io) - A Jekyll Plugin for rendering Webmentions via Webmention.io
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [philnash/jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web Monetization API payment pointers to your site
 - [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging) - Jekyll plugin to automatically generate a tag cloud and tag pages.
@@ -382,7 +391,7 @@
 ## TypeScript 
 
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [ornicar/chessground](https://github.com/ornicar/chessground) - Mobile/Web chess UI for lichess.org
+- [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count) - Beeminder integration with Obsidian, so that your word count in Obsidian contributes to your writing goals.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
