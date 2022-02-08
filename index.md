@@ -9,6 +9,7 @@ layout: default
 
 ## Contents
 
+  - [ASL](#asl)
   - [C](#c)
   - [CSS](#css)
   - [Clojure](#clojure)
@@ -34,6 +35,10 @@ layout: default
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
+## ASL 
+
+- [banhbaoxamlan/X230-Hackintosh](https://github.com/banhbaoxamlan/X230-Hackintosh) - READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh
+
 ## C 
 
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
@@ -46,7 +51,7 @@ layout: default
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
@@ -86,6 +91,7 @@ layout: default
 
 ## HTML 
 
+- [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal) - A simple HTML bullet journal
 - [berviantoleo/berviantoleo.github.io](https://github.com/berviantoleo/berviantoleo.github.io) - Personal Blog & Customized Own Themes Jekyll using Bulma
@@ -96,6 +102,7 @@ layout: default
 - [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
+- [cfjedimaster/eleventy-blog-guide](https://github.com/cfjedimaster/eleventy-blog-guide) - The repository for my guide on building a blog with Eleventy
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 - [cfjedimaster/the-jamstack-book](https://github.com/cfjedimaster/the-jamstack-book) - Repository for our book, The Jamstack Book.
@@ -124,7 +131,7 @@ layout: default
 - [sziv2p/jekyll-theme-scaffold](https://github.com/sziv2p/jekyll-theme-scaffold) - A minimalist yet powerful Jekyll theme for bloggers
 - [acgd-learn-the-web/jekyll-code](https://github.com/acgd-learn-the-web/jekyll-code) - Code samples for the Jekyll tutorial.
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
-- [rgvr/simply-jekyll](https://github.com/rgvr/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
+- [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [wowthemesnet/affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) - Affiliates - Jekyll Blogging Theme for Affiliate Marketers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -142,9 +149,10 @@ layout: default
 
 ## JavaScript 
 
+- [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
-- [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis. Join the discord at https://discord.gg/uNjJzZvccr
+- [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Forget less by daily journaling - when note taking meets a calender. Join the discord at https://discord.gg/uNjJzZvccr
 - [jackmcdade/weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
@@ -209,7 +217,7 @@ layout: default
 
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
 - [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
-- [cfjedimaster/eleventy-blog-guide](https://github.com/cfjedimaster/eleventy-blog-guide) - The repository for my guide on building a blog with Eleventy
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 
 ## Makefile 
 
@@ -229,12 +237,15 @@ layout: default
 - [siakaramalegos/sia.codes-eleventy](https://github.com/siakaramalegos/sia.codes-eleventy) - Eleventy version of my personal site
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
-- [scottishstoater/eleventy-web-starter](https://github.com/scottishstoater/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
+- [chrissy-dev/eleventy-web-starter](https://github.com/chrissy-dev/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
 - [reeseschultz/11r](https://github.com/reeseschultz/11r) - America's favorite Eleventy blog template.
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 
 ## Others 
 
+- [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
+- [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
+- [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [hankchizljaw/learneleventyfromscratch.com](https://github.com/hankchizljaw/learneleventyfromscratch.com) - In this Eleventy course, we go from a completely empty directory to a full-blown marketing site for a design agency, and along the way, we dive really deep into Eleventy and front-end development best practices.
@@ -259,10 +270,10 @@ layout: default
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [scottishstoater/awesome-eleventy](https://github.com/scottishstoater/awesome-eleventy) - A collection of awesome Eleventy (11ty) tools, templates, plugins, guides, snippet, etc.
+- [chrissy-dev/awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) - A collection of awesome Eleventy (11ty) tools, templates, plugins, guides, snippet, etc.
 - [jeromecoupe/iad_eleventy_introduction](https://github.com/jeromecoupe/iad_eleventy_introduction) - An introduction to Eleventy (11ty)
 - [bt-rb/vscode-blogging-extension-pack](https://github.com/bt-rb/vscode-blogging-extension-pack) - A collection of extensions to enhance content curation and creation for VS Code + Bridgetown
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [JefMari/awesome-wysiwyg](https://github.com/JefMari/awesome-wysiwyg) - A curated list of awesome WYSIWYG editors.
 - [kyrose/awesome-digital-gardens](https://github.com/kyrose/awesome-digital-gardens) - Inspirational digital gardens and resources for building your own 🍄🌻🌺🌿🌷🌼🌳🌻🌷🌼🌼🌻
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
@@ -326,6 +337,8 @@ layout: default
 
 ## Ruby 
 
+- [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) - Add [[wikilinks]] support for jekyll.
+- [aarongustafson/jekyll-webmention_io](https://github.com/aarongustafson/jekyll-webmention_io) - A Jekyll Plugin for rendering Webmentions via Webmention.io
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [philnash/jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web Monetization API payment pointers to your site
 - [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging) - Jekyll plugin to automatically generate a tag cloud and tag pages.
@@ -355,7 +368,6 @@ layout: default
 - [5t3ph/11ty-rocks](https://github.com/5t3ph/11ty-rocks) - A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph)
 - [Aspiring-Writer/libretto-book](https://github.com/Aspiring-Writer/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
@@ -374,7 +386,7 @@ layout: default
 - [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [victoriadrake/gitdo](https://github.com/victoriadrake/gitdo) - 🦾 Tools for doing things with Git repositories
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TeX 
 
@@ -383,7 +395,7 @@ layout: default
 ## TypeScript 
 
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [ornicar/chessground](https://github.com/ornicar/chessground) - Mobile/Web chess UI for lichess.org
+- [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count) - Beeminder integration with Obsidian, so that your word count in Obsidian contributes to your writing goals.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
