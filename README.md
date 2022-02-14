@@ -180,6 +180,7 @@
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - ✨ Portfolio website and blog
 - [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 📖   An opinionated workflow for building modern Jamstack (static) websites
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - Header anchors for markdown-it.
 - [huytd/taskedit](https://github.com/huytd/taskedit) - :pencil: an online notepad that only support markdown... lol
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
@@ -226,6 +227,7 @@
 ## Nunjucks 
 
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
+- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
 - [accessibility-exchange/co-design](https://github.com/accessibility-exchange/co-design) - The co-design website for The Accessibility Exchange.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
@@ -239,6 +241,7 @@
 
 ## Others 
 
+- [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
@@ -314,6 +317,7 @@
 
 ## Python 
 
+- [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
 - [Donohue/medium-to-jekyll](https://github.com/Donohue/medium-to-jekyll) - Convert Medium exported posts to Jekyll posts
@@ -396,10 +400,8 @@
 - [kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count) - Beeminder integration with Obsidian, so that your word count in Obsidian contributes to your writing goals.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
-- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - Harsh Singh's personal blog and portfolio ⚡ built with Next.js
