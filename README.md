@@ -41,6 +41,7 @@
 
 ## CSS 
 
+- [Amiinoz/husseingiire](https://github.com/Amiinoz/husseingiire) - husseingiire
 - [jackdomleo7/Checka11y.css](https://github.com/jackdomleo7/Checka11y.css) - A CSS stylesheet to quickly highlight a11y concerns.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [gerardbm/sigma-theme](https://github.com/gerardbm/sigma-theme) - Website theme for Jekyll v4.0.0
@@ -145,6 +146,7 @@
 
 ## JavaScript 
 
+- [cfjedimaster/jamstack-search](https://github.com/cfjedimaster/jamstack-search) - Presentation and demos for searching the Jamstack
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
@@ -180,7 +182,6 @@
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - ✨ Portfolio website and blog
 - [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 📖   An opinionated workflow for building modern Jamstack (static) websites
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - Header anchors for markdown-it.
 - [huytd/taskedit](https://github.com/huytd/taskedit) - :pencil: an online notepad that only support markdown... lol
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
@@ -227,7 +228,6 @@
 ## Nunjucks 
 
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
-- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
 - [accessibility-exchange/co-design](https://github.com/accessibility-exchange/co-design) - The co-design website for The Accessibility Exchange.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
@@ -241,6 +241,7 @@
 
 ## Others 
 
+- [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
@@ -253,9 +254,9 @@
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [amitness/learning](https://github.com/amitness/learning) - Becoming better at data science every day
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
@@ -400,8 +401,10 @@
 - [kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count) - Beeminder integration with Obsidian, so that your word count in Obsidian contributes to your writing goals.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - Harsh Singh's personal blog and portfolio ⚡ built with Next.js
