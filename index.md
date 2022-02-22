@@ -45,6 +45,7 @@ layout: default
 
 ## CSS 
 
+- [Amiinoz/husseingiire](https://github.com/Amiinoz/husseingiire) - husseingiire
 - [jackdomleo7/Checka11y.css](https://github.com/jackdomleo7/Checka11y.css) - A CSS stylesheet to quickly highlight a11y concerns.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [gerardbm/sigma-theme](https://github.com/gerardbm/sigma-theme) - Website theme for Jekyll v4.0.0
@@ -149,6 +150,7 @@ layout: default
 
 ## JavaScript 
 
+- [cfjedimaster/jamstack-search](https://github.com/cfjedimaster/jamstack-search) - Presentation and demos for searching the Jamstack
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
@@ -243,6 +245,8 @@ layout: default
 
 ## Others 
 
+- [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
+- [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [papers-we-love/edu](https://github.com/papers-we-love/edu) - Papers We ❤️ Edu
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
@@ -254,9 +258,9 @@ layout: default
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [amitness/learning](https://github.com/amitness/learning) - Becoming better at data science every day
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [joenash/awesome-infinidash](https://github.com/joenash/awesome-infinidash) - An awesome list for the awe-inspiring power of Infinidash, an imaginary product.
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of awesome repositories full of free resources.
+- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
@@ -318,6 +322,7 @@ layout: default
 
 ## Python 
 
+- [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
 - [Donohue/medium-to-jekyll](https://github.com/Donohue/medium-to-jekyll) - Convert Medium exported posts to Jekyll posts
