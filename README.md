@@ -97,7 +97,6 @@
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
 - [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
 - [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
-- [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
 - [cfjedimaster/eleventy-blog-guide](https://github.com/cfjedimaster/eleventy-blog-guide) - The repository for my guide on building a blog with Eleventy
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
@@ -169,7 +168,6 @@
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [nhoizey/knowledge-base](https://github.com/nhoizey/knowledge-base) - My own slightly opinionated knowledge base
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [AfroDevGirl/full-stack-accessibility](https://github.com/AfroDevGirl/full-stack-accessibility) - An example application for full stack accessibility
@@ -362,7 +360,7 @@
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [ixkaito/frasco](https://github.com/ixkaito/frasco) - Quick starter for Jekyll including full setup for Sass, PostCSS, Autoprefixer, stylelint, TypeScript, Webpack, ESLint, imagemin, Browsersync, etc.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-- [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with Eleventy.
+- [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with 11ty.
 - [inclusive-design/co-design.inclusivedesign.ca](https://github.com/inclusive-design/co-design.inclusivedesign.ca) - The source files for the Community-Led Co-design Kit.
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [arpitbatra123/personal-website](https://github.com/arpitbatra123/personal-website) - my place on the interwebz
