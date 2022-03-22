@@ -92,6 +92,7 @@ layout: default
 
 ## HTML 
 
+- [hackclub/css-starter](https://github.com/hackclub/css-starter) - Looking for a static site template? Look no further!
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal) - A simple HTML bullet journal
@@ -149,6 +150,7 @@ layout: default
 
 ## JavaScript 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [cfjedimaster/jamstack-search](https://github.com/cfjedimaster/jamstack-search) - Presentation and demos for searching the Jamstack
@@ -235,6 +237,7 @@ layout: default
 - [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
 - [accessibility-exchange/co-design](https://github.com/accessibility-exchange/co-design) - The co-design website for The Accessibility Exchange.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
+- [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [philhawksworth/hawksworx.com](https://github.com/philhawksworth/hawksworx.com) - My hawksworx.com blog site, powered by Eleventy and Netlify
 - [siakaramalegos/sia.codes-eleventy](https://github.com/siakaramalegos/sia.codes-eleventy) - Eleventy version of my personal site
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
@@ -366,11 +369,9 @@ layout: default
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with 11ty.
 - [inclusive-design/co-design.inclusivedesign.ca](https://github.com/inclusive-design/co-design.inclusivedesign.ca) - The source files for the Community-Led Co-design Kit.
-- [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [arpitbatra123/personal-website](https://github.com/arpitbatra123/personal-website) - my place on the interwebz
 - [systemdes/personal-website](https://github.com/systemdes/personal-website) - 👨🏼‍💻 Personal site powered by the static-site-starter
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
-- [5t3ph/11ty-rocks](https://github.com/5t3ph/11ty-rocks) - A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph)
 - [Aspiring-Writer/libretto-book](https://github.com/Aspiring-Writer/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
@@ -429,5 +430,3 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
-
-
