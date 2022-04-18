@@ -87,6 +87,7 @@
 
 ## HTML 
 
+- [codeforpdx/website](https://github.com/codeforpdx/website) - Official Code for PDX website
 - [hackclub/css-starter](https://github.com/hackclub/css-starter) - Looking for a static site template? Look no further!
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
@@ -246,6 +247,7 @@
 
 ## Others 
 
+- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
