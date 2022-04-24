@@ -86,12 +86,12 @@ layout: default
 
 ## Go 
 
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
 ## HTML 
 
+- [codeforpdx/website](https://github.com/codeforpdx/website) - Official Code for PDX website
 - [hackclub/css-starter](https://github.com/hackclub/css-starter) - Looking for a static site template? Look no further!
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
@@ -150,6 +150,7 @@ layout: default
 
 ## JavaScript 
 
+- [szymonkorytnicki/beeminder-ui](https://github.com/szymonkorytnicki/beeminder-ui) - alternative UI for beeminder
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
@@ -163,6 +164,7 @@ layout: default
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
 - [epilocal/newsliner-gatsby](https://github.com/epilocal/newsliner-gatsby) - 
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [tcbutler320/jek](https://github.com/tcbutler320/jek) - Jek is a minimalist jekyll theme putting the power of color schemes in the user’s hands. Toggle between schemes hassle-free, create new ones on the go, and store settings in-browser.
 - [studiolampblack/typographical-hugo](https://github.com/studiolampblack/typographical-hugo) - The Hugo port of the Typographical Jekyll theme
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -249,6 +251,7 @@ layout: default
 
 ## Others 
 
+- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
@@ -416,7 +419,7 @@ layout: default
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - Harsh Singh's personal blog and portfolio ⚡ built with Next.js
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
