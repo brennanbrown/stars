@@ -146,6 +146,7 @@
 
 ## JavaScript 
 
+- [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [matthewmain/kiss_the_sky](https://github.com/matthewmain/kiss_the_sky) - A totally unique evolution-based video game. At its heart is a programmatic replica of Mendelian genetics, and the gameplay is derived from real-time Darwinian selection. You can either compete to breed a tall flower or let ambient mode play out for hours, or days, or weeks.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [szymonkorytnicki/beeminder-ui](https://github.com/szymonkorytnicki/beeminder-ui) - alternative UI for beeminder
@@ -419,7 +420,7 @@
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - Harsh Singh's personal blog and portfolio ⚡ built with Next.js and TailwindCSS
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
