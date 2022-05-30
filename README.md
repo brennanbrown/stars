@@ -353,6 +353,7 @@
 
 ## Ruby 
 
+- [mekomlusa/Jekyll-to-Ghost](https://github.com/mekomlusa/Jekyll-to-Ghost) - Migrate your posts on Jekyll to Ghost based platform. Tested under Ghost 2.0 and Jekyll 3.8.5
 - [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) - Add [[wikilinks]] support for jekyll.
 - [aarongustafson/jekyll-webmention_io](https://github.com/aarongustafson/jekyll-webmention_io) - A Jekyll Plugin for rendering Webmentions via Webmention.io
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
@@ -410,6 +411,7 @@
 
 ## TypeScript 
 
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
