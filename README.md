@@ -41,6 +41,7 @@
 
 ## CSS 
 
+- [dergachev/puppypaste](https://github.com/dergachev/puppypaste) - Extract HTML clipboard contents without losing the structure, as you'd get from pasting into TextEdit or Notepad.
 - [Amiinoz/husseingiire](https://github.com/Amiinoz/husseingiire) - husseingiire
 - [jackdomleo7/Checka11y.css](https://github.com/jackdomleo7/Checka11y.css) - A CSS stylesheet to quickly highlight a11y concerns.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
@@ -252,6 +253,7 @@
 
 ## Others 
 
+- [sw-yx/domainblocklist](https://github.com/sw-yx/domainblocklist) - domains that are mostly just automated reposts of content sites like CSS Tricks
 - [ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I can't seem to upload .md files on WordPress, so this will have to do.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
