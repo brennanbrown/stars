@@ -71,7 +71,6 @@ layout: default
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [artemsheludko/derrick](https://github.com/artemsheludko/derrick) - 🙌  Derrick is a clean minimal and fast theme for a personal blog.
 - [B00merang-Project/Redmond-Themes](https://github.com/B00merang-Project/Redmond-Themes) - Home of the B00merang Redmond Collection themes for Linux
-- [JustGoodThemes/Scriptor-Jekyll-Theme](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) - Scriptor is a minimal, clean, modern and responsive Jekyll theme for writers.
 - [heiswayi/textlog](https://github.com/heiswayi/textlog) - Minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
 ## Clojure 
@@ -397,6 +396,7 @@ layout: default
 - [dpstrange/jekyll-piratesec](https://github.com/dpstrange/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [FoamFactory/bubbling-ale](https://github.com/FoamFactory/bubbling-ale) - A Jekyll theme inspired by beer
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
+- [JustGoodThemes/Scriptor-Jekyll-Theme](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) - Scriptor is a minimal, clean, modern and responsive Jekyll theme for writers.
 
 ## Shell 
 
@@ -418,6 +418,7 @@ layout: default
 
 ## TypeScript 
 
+- [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
@@ -450,4 +451,3 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
-
