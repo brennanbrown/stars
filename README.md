@@ -157,7 +157,6 @@
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [matthewmain/kiss_the_sky](https://github.com/matthewmain/kiss_the_sky) - A totally unique evolution-based video game. At its heart is a programmatic replica of Mendelian genetics, and the gameplay is derived from real-time Darwinian selection. You can either compete to bre
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
-- [szymonkorytnicki/beeminder-ui](https://github.com/szymonkorytnicki/beeminder-ui) - alternative UI for beeminder
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
@@ -214,6 +213,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [narthur/beeminder-wiki](https://github.com/narthur/beeminder-wiki) - 
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [seanmortimer/space-apps-challenge-2020](https://github.com/seanmortimer/space-apps-challenge-2020) - Orbital Sky Space Apps Challenge
@@ -304,7 +304,6 @@
 - [JoshuaPoddoku/awesome-linkedin-profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles) - Top LinkedIn Profiles especially for developers and designers including some LinkedIn specialists, Entrepreneurs, and Strategists.
 - [fission-codes/awesome-discord-announce](https://github.com/fission-codes/awesome-discord-announce) - An awesome list of dev-focused Discord announce channels
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [narthur/beeminder-wiki](https://github.com/narthur/beeminder-wiki) - 
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode) - A list of practical knowledge-building projects.
