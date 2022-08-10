@@ -91,6 +91,7 @@ layout: default
 
 ## HTML 
 
+- [Tix3Dev/tix3dev.github.io](https://github.com/Tix3Dev/tix3dev.github.io) - A personal blog about all kinds of nerdy stuff made with purelog :D
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [codeforpdx/website](https://github.com/codeforpdx/website) - Official Code for PDX website
@@ -151,6 +152,7 @@ layout: default
 
 ## JavaScript 
 
+- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
@@ -158,7 +160,6 @@ layout: default
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [matthewmain/kiss_the_sky](https://github.com/matthewmain/kiss_the_sky) - A totally unique evolution-based video game. At its heart is a programmatic replica of Mendelian genetics, and the gameplay is derived from real-time Darwinian selection. You can either compete to bre
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
-- [szymonkorytnicki/beeminder-ui](https://github.com/szymonkorytnicki/beeminder-ui) - alternative UI for beeminder
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [swinton/screenshot-website](https://github.com/swinton/screenshot-website) - :camera_flash: A GitHub Action to capture screenshots of a website, across Windows, Mac, and Linux
@@ -199,7 +200,7 @@ layout: default
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [BrianMitchL/BrianMitchL.github.io](https://github.com/BrianMitchL/BrianMitchL.github.io) - ✨ Portfolio website and blog
 - [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 📖   An opinionated workflow for building modern Jamstack (static) websites
-- [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - Header anchors for markdown-it.
+- [valeriangalliat/markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) - A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
 - [huytd/taskedit](https://github.com/huytd/taskedit) - :pencil: an online notepad that only support markdown... lol
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [ehowey/gatsby-theme-empty](https://github.com/ehowey/gatsby-theme-empty) - An empty template for a lightning fast Gatsby themes monorepo setup. Ready to be filled up with awesomeness!
@@ -215,6 +216,7 @@ layout: default
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [narthur/beeminder-wiki](https://github.com/narthur/beeminder-wiki) - 
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [seanmortimer/space-apps-challenge-2020](https://github.com/seanmortimer/space-apps-challenge-2020) - Orbital Sky Space Apps Challenge
@@ -276,7 +278,7 @@ layout: default
 - [hankchizljaw/learneleventyfromscratch.com](https://github.com/hankchizljaw/learneleventyfromscratch.com) - In this Eleventy course, we go from a completely empty directory to a full-blown marketing site for a design agency, and along the way, we dive really deep into Eleventy and front-end development best
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
-- [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - :airplane: A quick-start guide for new developers on how to set up their environments
+- [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - ✈️ A quick-start guide for new engineers on how to set up their Dev environment
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
@@ -303,9 +305,8 @@ layout: default
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [JoshuaPoddoku/awesome-linkedin-profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles) - Top LinkedIn Profiles especially for developers and designers including some LinkedIn specialists, Entrepreneurs, and Strategists.
-- [fission-suite/awesome-discord-announce](https://github.com/fission-suite/awesome-discord-announce) - An awesome list of dev-focused Discord announce channels
+- [fission-codes/awesome-discord-announce](https://github.com/fission-codes/awesome-discord-announce) - An awesome list of dev-focused Discord announce channels
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [narthur/beeminder-wiki](https://github.com/narthur/beeminder-wiki) - 
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode) - A list of practical knowledge-building projects.
