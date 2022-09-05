@@ -6,6 +6,7 @@
 ## Contents
 
 - [ASL](#asl)
+- [Astro](#astro)
 - [C](#c)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -34,6 +35,10 @@
 ## ASL 
 
 - [banhbaoxamlan/X230-Hackintosh](https://github.com/banhbaoxamlan/X230-Hackintosh) - READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh
+
+## Astro 
+
+- [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
 
 ## C 
 
@@ -89,6 +94,7 @@
 
 ## HTML 
 
+- [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
 - [Tix3Dev/tix3dev.github.io](https://github.com/Tix3Dev/tix3dev.github.io) - A personal blog about all kinds of nerdy stuff made with purelog :D
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
