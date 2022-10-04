@@ -96,6 +96,7 @@ layout: default
 
 ## HTML 
 
+- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [ronv/writer](https://github.com/ronv/writer) - Writer is content focused, minimal theme for Hugo. The theme is perfectly suitable for writers.
 - [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
 - [Tix3Dev/tix3dev.github.io](https://github.com/Tix3Dev/tix3dev.github.io) - A personal blog about all kinds of nerdy stuff made with purelog :D
