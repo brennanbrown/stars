@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [aidenlx/obsidian-zotero](https://github.com/aidenlx/obsidian-zotero) - Obsidian.md integrates with Zotero, create literature notes and insert citations from a Zotero library.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -454,7 +455,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
-- [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - Harsh Singh's personal blog and portfolio ⚡ built with Next.js
+- [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - My website and blog 👋
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
