@@ -82,7 +82,7 @@ layout: default
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 
 ## Elixir 
 
@@ -140,7 +140,7 @@ layout: default
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [dinhanhthi/simple-perso](https://github.com/dinhanhthi/simple-perso) - 🍒 A simple and beautiful personal jekyll theme.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-- [acgd-learn-the-web/jekyll-code](https://github.com/acgd-learn-the-web/jekyll-code) - Code samples for the Jekyll tutorial.
+- [learn-the-web/jekyll-code](https://github.com/learn-the-web/jekyll-code) - Code samples for the Jekyll tutorial.
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -458,7 +458,7 @@ layout: default
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
-- [harshhhdev/harshhhdev.github.io](https://github.com/harshhhdev/harshhhdev.github.io) - My website and blog 👋
+- [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
@@ -475,4 +475,3 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
-
