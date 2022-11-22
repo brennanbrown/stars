@@ -13,6 +13,7 @@ layout: default
 - [C](#c)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -83,6 +84,10 @@ layout: default
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -163,7 +168,7 @@ layout: default
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
-- [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little server that connects your website to the independent web.
+- [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the pieces needed to own your content and share it with the wider independent web.
 - [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
@@ -178,7 +183,6 @@ layout: default
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [cfjedimaster/jamstack-search](https://github.com/cfjedimaster/jamstack-search) - Presentation and demos for searching the Jamstack
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNj
 - [jackmcdade/weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
@@ -375,7 +379,7 @@ layout: default
 
 ## Ruby 
 
-- [JayCuthrell/jaycuthrell.com](https://github.com/JayCuthrell/jaycuthrell.com) - Circa 2014 - My oft recycled website now running Jekyll with the So Simple Jekyll Theme on Netlify
+- [JayCuthrell/jaycuthrell.com](https://github.com/JayCuthrell/jaycuthrell.com) - Circa 2014 - My oft recycled website now running Jekyll with the So Simple Jekyll Theme on GitHub Pages
 - [mekomlusa/Jekyll-to-Ghost](https://github.com/mekomlusa/Jekyll-to-Ghost) - Migrate your posts on Jekyll to Ghost based platform. Tested under Ghost 2.0 and Jekyll 3.8.5
 - [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) - Add [[wikilinks]] support for jekyll.
 - [aarongustafson/jekyll-webmention_io](https://github.com/aarongustafson/jekyll-webmention_io) - A Jekyll Plugin for rendering Webmentions via Webmention.io
@@ -397,7 +401,7 @@ layout: default
 - [sophiekoonin/localghost](https://github.com/sophiekoonin/localghost) - the source code of localghost.dev
 - [alephmembeth/alephmembeth.github.io](https://github.com/alephmembeth/alephmembeth.github.io) - This website summarizes information about my person and work.
 - [5t3ph/11ty-rocks](https://github.com/5t3ph/11ty-rocks) - A collection of Eleventy (11ty) starters, projects, plugins, and resources created by Stephanie Eckles (@5t3ph)
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [esporo/steve](https://github.com/esporo/steve) - A charming and fun blog theme for Jekyll.
 - [cehfisher/a11y-style-guide](https://github.com/cehfisher/a11y-style-guide) - Accessibility (A11Y) Style Guide
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
@@ -475,3 +479,4 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
+
