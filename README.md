@@ -148,7 +148,7 @@
 
 ## Haskell 
 
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
 
 ## Java 
 
@@ -156,6 +156,7 @@
 
 ## JavaScript 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
@@ -214,7 +215,6 @@
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [ehowey/gatsby-theme-empty](https://github.com/ehowey/gatsby-theme-empty) - An empty template for a lightning fast Gatsby themes monorepo setup. Ready to be filled up with awesomeness!
 - [ehowey/gatsby-theme-catalyst](https://github.com/ehowey/gatsby-theme-catalyst) - An opinionated set of integrated themes and starters as a boilerplate to accelerate development with GatsbyJS
-- [equinusocio/xity-starter](https://github.com/equinusocio/xity-starter) - A blog-ready 11ty starter based on PostCSS, with RSS feed and Native Elements!
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [stowball/elf](https://github.com/stowball/elf) - Elf is a simple & magical Eleventy starter kit to help you create a project using standard technologies like webpack, Babel and Sass, while also considering ease of use, performance and browser compat
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [aidenlx/obsidian-zotero](https://github.com/aidenlx/obsidian-zotero) - Obsidian.md integrates with Zotero, create literature notes and insert citations from a Zotero library.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
