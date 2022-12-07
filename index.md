@@ -13,7 +13,6 @@ layout: default
 - [C](#c)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -68,7 +67,7 @@ layout: default
 - [scottpdawson/art-of-working-remotely](https://github.com/scottpdawson/art-of-working-remotely) - This project is related to my work as a remote work advocate and as the author of The Art of Working Remotely.
 - [scottpdawson/scottpdawson](https://github.com/scottpdawson/scottpdawson) - My personal web site, built with Eleventy. Learn about my running, writing, art, and special projects.
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
-- [hankchizljaw/npm-uninstall-facebook](https://github.com/hankchizljaw/npm-uninstall-facebook) - 
+- [Andy-set-studio/npm-uninstall-facebook](https://github.com/Andy-set-studio/npm-uninstall-facebook) - 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [SuzeShardlow/SuzeShardlow.github.io](https://github.com/SuzeShardlow/SuzeShardlow.github.io) - Rising Star In Technology Award Winner 2021 • Women In Software Power List 2020 • TechWomen 100 Award Winner 2020 • Coder • Technical Writer • Tech Event Host • Community Lead, Ladies Of Code
 - [mrcoles/markdown-css](https://github.com/mrcoles/markdown-css) - CSS for making regular HTML look like plain-text markdown.
@@ -78,16 +77,11 @@ layout: default
 - [theianjones/roam-research-themes](https://github.com/theianjones/roam-research-themes) - 
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [B00merang-Project/Redmond-Themes](https://github.com/B00merang-Project/Redmond-Themes) - Home of the B00merang Redmond Collection themes for Linux
-- [heiswayi/textlog](https://github.com/heiswayi/textlog) - Minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
-
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -157,7 +151,7 @@ layout: default
 
 ## Haskell 
 
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
 
 ## Java 
 
@@ -165,6 +159,7 @@ layout: default
 
 ## JavaScript 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
@@ -183,6 +178,7 @@ layout: default
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [cfjedimaster/jamstack-search](https://github.com/cfjedimaster/jamstack-search) - Presentation and demos for searching the Jamstack
 - [jhvanderschee/jekyllcodex](https://github.com/jhvanderschee/jekyllcodex) - A website for front-end developers who want to learn Jekyll.
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [inadeqtfuturs/garden](https://github.com/inadeqtfuturs/garden) - 🌱 a place to think about digital gardening
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNj
 - [jackmcdade/weird-wide-webring](https://github.com/jackmcdade/weird-wide-webring) - The web needs a little more weird. These sites are helping. Apply to join!
@@ -222,7 +218,6 @@ layout: default
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
 - [ehowey/gatsby-theme-empty](https://github.com/ehowey/gatsby-theme-empty) - An empty template for a lightning fast Gatsby themes monorepo setup. Ready to be filled up with awesomeness!
 - [ehowey/gatsby-theme-catalyst](https://github.com/ehowey/gatsby-theme-catalyst) - An opinionated set of integrated themes and starters as a boilerplate to accelerate development with GatsbyJS
-- [equinusocio/xity-starter](https://github.com/equinusocio/xity-starter) - A blog-ready 11ty starter based on PostCSS, with RSS feed and Native Elements!
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [stowball/elf](https://github.com/stowball/elf) - Elf is a simple & magical Eleventy starter kit to help you create a project using standard technologies like webpack, Babel and Sass, while also considering ease of use, performance and browser compat
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
@@ -291,7 +286,7 @@ layout: default
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
-- [hankchizljaw/learneleventyfromscratch.com](https://github.com/hankchizljaw/learneleventyfromscratch.com) - In this Eleventy course, we go from a completely empty directory to a full-blown marketing site for a design agency, and along the way, we dive really deep into Eleventy and front-end development best
+- [Andy-set-studio/learneleventyfromscratch.com](https://github.com/Andy-set-studio/learneleventyfromscratch.com) - In this Eleventy course, we go from a completely empty directory to a full-blown marketing site for a design agency, and along the way, we dive really deep into Eleventy and front-end development best
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - ✈️ A quick-start guide for new engineers on how to set up their Dev environment
@@ -422,6 +417,7 @@ layout: default
 - [artemsheludko/derrick](https://github.com/artemsheludko/derrick) - 🙌  Derrick is a clean minimal and fast theme for a personal blog.
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
 - [JustGoodThemes/Scriptor-Jekyll-Theme](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) - Scriptor is a minimal, clean, modern and responsive Jekyll theme for writers.
+- [heiswayi/textlog](https://github.com/heiswayi/textlog) - Minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
 ## Shell 
 
@@ -444,6 +440,7 @@ layout: default
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [aidenlx/obsidian-zotero](https://github.com/aidenlx/obsidian-zotero) - Obsidian.md integrates with Zotero, create literature notes and insert citations from a Zotero library.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
