@@ -57,7 +57,6 @@
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
-- [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
 - [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
@@ -116,6 +115,7 @@
 - [cfjedimaster/the-jamstack-book](https://github.com/cfjedimaster/the-jamstack-book) - Repository for our book, The Jamstack Book.
 - [radogado/niui](https://github.com/radogado/niui) - Lightweight, feature-rich, accessible front-end library
 - [javierjulio/javierjulio.github.io](https://github.com/javierjulio/javierjulio.github.io) - Personal site built in Jekyll and Github Pages
+- [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [roughike/welcomments-blog](https://github.com/roughike/welcomments-blog) - The legacy blog for Welcomments. See here for the new one: https://github.com/welcomments/website
 - [rainleander/rainleander.github.io](https://github.com/rainleander/rainleander.github.io) - Where I keep track of the progress of four expansion projects that will probably last the next two years. Or so. And my CV.
 - [geshan/geshan.github.com](https://github.com/geshan/geshan.github.com) - Blog hosted on Cloudfalre pages, built with eleventy
