@@ -151,7 +151,7 @@
 
 ## Haskell 
 
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 
 ## Java 
 
@@ -159,6 +159,7 @@
 
 ## JavaScript 
 
+- [fairfield-programming/fairfield-programming.github.io](https://github.com/fairfield-programming/fairfield-programming.github.io) - 🌐 The website for the Fairfield Programming Association.
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
