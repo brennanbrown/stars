@@ -86,11 +86,13 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
 ## HTML 
 
+- [ronv/jam](https://github.com/ronv/jam) - Jam is a minimal personal blog and portfolio theme powered by Hugo. Demo: https://jam-hugo.netlify.app/
 - [brennanbrown/WriteClub](https://github.com/brennanbrown/WriteClub) - ✏️ Mount Royal University's Creative Writing Club (https://writeclub.ca) is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well a
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
@@ -159,6 +161,8 @@
 
 ## JavaScript 
 
+- [zachleat/performance-leaderboard-pagespeed-insights](https://github.com/zachleat/performance-leaderboard-pagespeed-insights) - A plugin to run Lighthouse on Pagespeed Insights against a set of urls to see which site is the fastest.
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [fairfield-programming/fairfield-programming.github.io](https://github.com/fairfield-programming/fairfield-programming.github.io) - 🌐 The website for the Fairfield Programming Association.
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
@@ -334,7 +338,7 @@
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
-- [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
+- [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - A repository of data on coronavirus cases and deaths in the U.S.
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -407,7 +411,7 @@
 - [inclusive-design/co-design.inclusivedesign.ca](https://github.com/inclusive-design/co-design.inclusivedesign.ca) - The source files for the Community-Led Co-design Kit.
 - [systemdes/personal-website](https://github.com/systemdes/personal-website) - 👨🏼‍💻 Personal site powered by the static-site-starter
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
-- [Aspiring-Writer/libretto-book](https://github.com/Aspiring-Writer/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
+- [BravishkaSkytano/libretto-book](https://github.com/BravishkaSkytano/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
@@ -440,6 +444,7 @@
 
 ## TypeScript 
 
+- [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [aidenlx/obsidian-zotero](https://github.com/aidenlx/obsidian-zotero) - Obsidian.md integrates with Zotero, create literature notes and insert citations from a Zotero library.
