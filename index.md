@@ -50,6 +50,7 @@ layout: default
 
 ## CSS 
 
+- [conedevelopment/bite-sized-a11y](https://github.com/conedevelopment/bite-sized-a11y) - Quick and Small Accessibility - Learn something new about accessibility with short and solid articles (less than 150 words).
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 - [dergachev/puppypaste](https://github.com/dergachev/puppypaste) - Extract HTML clipboard contents without losing the structure, as you'd get from pasting into TextEdit or Notepad.
@@ -164,6 +165,7 @@ layout: default
 
 ## JavaScript 
 
+- [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source) - 🖐️ A repository to learn about open source code contributions flow
 - [zachleat/performance-leaderboard-pagespeed-insights](https://github.com/zachleat/performance-leaderboard-pagespeed-insights) - A plugin to run Lighthouse on Pagespeed Insights against a set of urls to see which site is the fastest.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [fairfield-programming/fairfield-programming.github.io](https://github.com/fairfield-programming/fairfield-programming.github.io) - 🌐 The website for the Fairfield Programming Association.
@@ -428,6 +430,7 @@ layout: default
 
 ## Shell 
 
+- [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
@@ -485,3 +488,4 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
+
