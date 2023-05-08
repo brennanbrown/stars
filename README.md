@@ -119,7 +119,7 @@
 - [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 - [cfjedimaster/the-jamstack-book](https://github.com/cfjedimaster/the-jamstack-book) - Repository for our book, The Jamstack Book.
-- [radogado/niui](https://github.com/radogado/niui) - Lightweight, feature-rich, accessible front-end library
+- [radogado/niui](https://github.com/radogado/niui) - Lightweight, feature-rich, accessible front-end UI library
 - [javierjulio/javierjulio.github.io](https://github.com/javierjulio/javierjulio.github.io) - Personal site built in Jekyll and Github Pages
 - [tatianamac/tm11ty](https://github.com/tatianamac/tm11ty) - Personal site for Tatiana Mac (based on Eleventy)
 - [roughike/welcomments-blog](https://github.com/roughike/welcomments-blog) - The legacy blog for Welcomments. See here for the new one: https://github.com/welcomments/website
