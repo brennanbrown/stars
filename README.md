@@ -283,7 +283,7 @@
 ## Others 
 
 - [acidtone/teaching-journal](https://github.com/acidtone/teaching-journal) - 
-- [sw-yx/domainblocklist](https://github.com/sw-yx/domainblocklist) - domains that are mostly just automated reposts of content sites like CSS Tricks
+- [swyxio/domainblocklist](https://github.com/swyxio/domainblocklist) - domains that are mostly just automated reposts of content sites like CSS Tricks
 - [ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I can't seem to upload .md files on WordPress, so this will have to do.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
