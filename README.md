@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Liquid](#liquid)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -48,6 +49,7 @@
 
 ## CSS 
 
+- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [conedevelopment/bite-sized-a11y](https://github.com/conedevelopment/bite-sized-a11y) - Quick and Small Accessibility - Learn something new about accessibility with short and solid articles (less than 150 words).
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
@@ -256,6 +258,10 @@
 - [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
 - [arpitbatra123/personal-website](https://github.com/arpitbatra123/personal-website) - my place on the interwebz
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
+
+## MDX 
+
+- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 
 ## Makefile 
 
