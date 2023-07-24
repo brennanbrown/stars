@@ -161,6 +161,7 @@
 
 ## Java 
 
+- [matevz-kovacic/word-square](https://github.com/matevz-kovacic/word-square) - algorithm for word square construction and the first proper English 10-square
 - [lshumlich/books](https://github.com/lshumlich/books) - 20 year old system for maintaining personal books - we still use it now
 
 ## JavaScript 
@@ -464,6 +465,7 @@
 
 ## TypeScript 
 
+- [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
@@ -488,7 +490,7 @@
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
