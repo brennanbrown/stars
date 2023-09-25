@@ -129,7 +129,7 @@
 - [rainleander/rainleander.github.io](https://github.com/rainleander/rainleander.github.io) - Where I keep track of the progress of five expansion projects that will probably last the next two years. Or so. And my CV.
 - [geshan/geshan.github.com](https://github.com/geshan/geshan.github.com) - Blog hosted on Cloudfalre pages, built with eleventy
 - [alexandersandberg/a11yana](https://github.com/alexandersandberg/a11yana) - A classless CSS framework with a focus on accessibility
-- [nsmsn/nicksimsondotcom](https://github.com/nsmsn/nicksimsondotcom) - Just another personal site built with Eleventy
+- [nsmsn/personal-site-v2](https://github.com/nsmsn/personal-site-v2) - Just another personal site built with Eleventy
 - [digitalgardeners/site](https://github.com/digitalgardeners/site) - The public site for the Digital Gardeners' digital garden, built with the notes from the notes repository.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
@@ -170,6 +170,7 @@
 ## JavaScript 
 
 - [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [xdamman/mediumexporter](https://github.com/xdamman/mediumexporter) - Export your stories published on medium.com to markdown for easy import
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source) - 🖐️ A repository to learn about open source code contributions flow
@@ -382,7 +383,6 @@
 
 ## Python 
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
