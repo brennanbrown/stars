@@ -19,7 +19,6 @@ layout: default
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Liquid](#liquid)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -46,7 +45,6 @@ layout: default
 ## Astro 
 
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
-- [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 
 ## C 
 
@@ -133,7 +131,7 @@ layout: default
 - [rainleander/rainleander.github.io](https://github.com/rainleander/rainleander.github.io) - Where I keep track of the progress of five expansion projects that will probably last the next two years. Or so. And my CV.
 - [geshan/geshan.github.com](https://github.com/geshan/geshan.github.com) - Blog hosted on Cloudfalre pages, built with eleventy
 - [alexandersandberg/a11yana](https://github.com/alexandersandberg/a11yana) - A classless CSS framework with a focus on accessibility
-- [nsmsn/nicksimsondotcom](https://github.com/nsmsn/nicksimsondotcom) - Just another personal site built with Eleventy
+- [nsmsn/personal-site-v2](https://github.com/nsmsn/personal-site-v2) - Just another personal site built with Eleventy
 - [digitalgardeners/site](https://github.com/digitalgardeners/site) - The public site for the Digital Gardeners' digital garden, built with the notes from the notes repository.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
@@ -163,6 +161,7 @@ layout: default
 
 ## Haskell 
 
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 
 ## Java 
@@ -173,6 +172,7 @@ layout: default
 ## JavaScript 
 
 - [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [xdamman/mediumexporter](https://github.com/xdamman/mediumexporter) - Export your stories published on medium.com to markdown for easy import
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source) - 🖐️ A repository to learn about open source code contributions flow
@@ -258,10 +258,6 @@ layout: default
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [beeminder/apidocs](https://github.com/beeminder/apidocs) - Beeminder API Reference
 
-## Jupyter Notebook 
-
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-
 ## Liquid 
 
 - [allejo/jekyll-toc](https://github.com/allejo/jekyll-toc) - A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript :octocat:
@@ -272,6 +268,7 @@ layout: default
 ## MDX 
 
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
+- [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 
 ## Makefile 
 
@@ -389,6 +386,7 @@ layout: default
 
 ## Python 
 
+- [google/mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
@@ -446,7 +444,7 @@ layout: default
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
-- [x6472/jekyll-piratesec](https://github.com/x6472/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
+- [x6400/jekyll-piratesec](https://github.com/x6400/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [FoamFactory/bubbling-ale](https://github.com/FoamFactory/bubbling-ale) - A Jekyll theme inspired by beer
 - [artemsheludko/derrick](https://github.com/artemsheludko/derrick) - 🙌  Derrick is a clean minimal and fast theme for a personal blog.
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
@@ -466,7 +464,7 @@ layout: default
 - [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [victoriadrake/gitdo](https://github.com/victoriadrake/gitdo) - 🦾 Tools for doing things with Git repositories
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Swift 
 
