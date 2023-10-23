@@ -16,6 +16,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Liquid](#liquid)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -254,6 +255,10 @@
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [beeminder/apidocs](https://github.com/beeminder/apidocs) - Beeminder API Reference
+
+## Jupyter Notebook 
+
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 
 ## Liquid 
 
