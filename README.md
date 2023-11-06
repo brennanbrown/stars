@@ -8,6 +8,7 @@
 - [ASL](#asl)
 - [Astro](#astro)
 - [C](#c)
+- [C#](#c#)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Elixir](#elixir)
@@ -47,6 +48,10 @@
 ## C 
 
 - [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
+
+## C# # 
+
+- [misprit7/WireHead](https://github.com/misprit7/WireHead) - A Terrarria mod that reimplements the wiring system much more efficiently
 
 ## CSS 
 
@@ -424,6 +429,7 @@
 
 ## Rust 
 
+- [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
 - [hackclub/burrow](https://github.com/hackclub/burrow) - Burrow is a tool for burrowing through firewalls, built by teenagers at Hack Club.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
