@@ -69,7 +69,7 @@
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
 - [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
