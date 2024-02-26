@@ -415,7 +415,7 @@
 - [angelahe/katapy](https://github.com/angelahe/katapy) - 
 - [jordn/heroku-django-s3](https://github.com/jordn/heroku-django-s3) - A clean Django project running on Heroku with static files served from Amazon S3.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## Ruby 
@@ -489,7 +489,7 @@
 
 ## TypeScript 
 
-- [rizkimcitra/rizkicitra.dev](https://github.com/rizkimcitra/rizkicitra.dev) - My Personal Website, it's nice.
+- [rimzzlabs/rizkicitra.dev](https://github.com/rimzzlabs/rizkicitra.dev) - My Personal Website, it's nice.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
