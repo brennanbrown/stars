@@ -118,7 +118,6 @@
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal) - A simple HTML bullet journal
-- [berviantoleo/berviantoleo.github.io](https://github.com/berviantoleo/berviantoleo.github.io) - Personal Blog
 - [mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme) - Clean knowledge sharing jekyll theme
 - [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
@@ -494,7 +493,7 @@
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
 - [PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
