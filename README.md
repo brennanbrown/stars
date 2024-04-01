@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Crystal](#crystal)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -90,6 +91,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
+
+## Crystal 
+
+- [retorquere/zotero-deb](https://github.com/retorquere/zotero-deb) - Packaged versions of Zotero and Juris-M for Debian-based systems
 
 ## Elixir 
 
