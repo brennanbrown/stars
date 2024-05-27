@@ -182,7 +182,6 @@
 
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [xdamman/mediumexporter](https://github.com/xdamman/mediumexporter) - Export your stories published on medium.com to markdown for easy import
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source) - 🖐️ A repository to learn about open source code contributions flow
@@ -404,6 +403,7 @@
 ## Python 
 
 - [google/mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
