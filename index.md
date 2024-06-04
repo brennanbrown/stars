@@ -14,6 +14,7 @@ layout: default
 - [C#](#c#)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Crystal](#crystal)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -94,6 +95,10 @@ layout: default
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 
+## Crystal 
+
+- [retorquere/zotero-deb](https://github.com/retorquere/zotero-deb) - Packaged versions of Zotero and Juris-M for Debian-based systems
+
 ## Elixir 
 
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -107,12 +112,12 @@ layout: default
 
 ## HTML 
 
+- [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
 - [ronv/jam](https://github.com/ronv/jam) - Jam is a minimal personal blog and portfolio theme powered by Hugo. Demo: https://jam-hugo.netlify.app/
 - [brennanbrown/WriteClub](https://github.com/brennanbrown/WriteClub) - ✏️ Mount Royal University's Creative Writing Club (https://writeclub.ca) is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well a
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [ronv/writer](https://github.com/ronv/writer) - Writer is content focused, minimal theme for Hugo. The theme is perfectly suitable for writers.
-- [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
 - [Tix3Dev/tix3dev.github.io](https://github.com/Tix3Dev/tix3dev.github.io) - A personal blog about all kinds of nerdy stuff made with purelog :D
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
@@ -121,7 +126,6 @@ layout: default
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://journal.kim/
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal) - A simple HTML bullet journal
-- [berviantoleo/berviantoleo.github.io](https://github.com/berviantoleo/berviantoleo.github.io) - Personal Blog
 - [mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme) - Clean knowledge sharing jekyll theme
 - [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
 - [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
@@ -181,7 +185,6 @@ layout: default
 
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [pavanjadhaw/mdm](https://github.com/pavanjadhaw/mdm) - 📝 Publish your markdown to medium, from cli
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [xdamman/mediumexporter](https://github.com/xdamman/mediumexporter) - Export your stories published on medium.com to markdown for easy import
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source) - 🖐️ A repository to learn about open source code contributions flow
@@ -193,7 +196,6 @@ layout: default
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [getindiekit/indiekit](https://github.com/getindiekit/indiekit) - The little Node.js server with all the parts needed to publish content to your personal website and share it on social networks.
-- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
@@ -224,7 +226,6 @@ layout: default
 - [derekkedziora/jekyll-demo](https://github.com/derekkedziora/jekyll-demo) - A demo Jekyll site: dark mode, random posts and a tag page
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
-- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -318,6 +319,7 @@ layout: default
 - [andrewmcodes/obsidian-beginner-vault-template](https://github.com/andrewmcodes/obsidian-beginner-vault-template) - A minimal template for your first Obsidian vault aimed at setting good defaults.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [abergs/ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
+- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [acidtone/teaching-journal](https://github.com/acidtone/teaching-journal) - 
 - [swyxio/domainblocklist](https://github.com/swyxio/domainblocklist) - domains that are mostly just automated reposts of content sites like CSS Tricks
 - [ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I can't seem to upload .md files on WordPress, so this will have to do.
@@ -403,12 +405,13 @@ layout: default
 ## Python 
 
 - [google/mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
 - [nostalgebraist/nostalgebraist-autoresponder](https://github.com/nostalgebraist/nostalgebraist-autoresponder) - Code for the tumblr bot nostalgebraist-autoresponder.
 - [Donohue/medium-to-jekyll](https://github.com/Donohue/medium-to-jekyll) - Convert Medium exported posts to Jekyll posts
-- [frnsys/port](https://github.com/frnsys/port) - lightweight blogging platform
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
+- [frnsys/port.py](https://github.com/frnsys/port.py) - lightweight blogging platform
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [lebriton/awesome-hackernews](https://github.com/lebriton/awesome-hackernews) - A curated list of FOSS tools to improve the Hacker News experience.
@@ -418,7 +421,7 @@ layout: default
 - [angelahe/katapy](https://github.com/angelahe/katapy) - 
 - [jordn/heroku-django-s3](https://github.com/jordn/heroku-django-s3) - A clean Django project running on Heroku with static files served from Amazon S3.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## Ruby 
@@ -449,6 +452,7 @@ layout: default
 - [esporo/steve](https://github.com/esporo/steve) - A charming and fun blog theme for Jekyll.
 - [cehfisher/a11y-style-guide](https://github.com/cehfisher/a11y-style-guide) - Accessibility (A11Y) Style Guide
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [ixkaito/frasco](https://github.com/ixkaito/frasco) - Quick starter for Jekyll including full setup for Sass, PostCSS, Autoprefixer, stylelint, TypeScript, Webpack, ESLint, imagemin, Browsersync, etc.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website. Built with 11ty.
@@ -460,7 +464,7 @@ layout: default
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
-- [x6400/jekyll-piratesec](https://github.com/x6400/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
+- [x64onl/jekyll-piratesec](https://github.com/x64onl/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [FoamFactory/bubbling-ale](https://github.com/FoamFactory/bubbling-ale) - A Jekyll theme inspired by beer
 - [artemsheludko/derrick](https://github.com/artemsheludko/derrick) - 🙌  Derrick is a clean minimal and fast theme for a personal blog.
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
@@ -475,12 +479,12 @@ layout: default
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
-- [valerie-makes/notion-linux](https://github.com/valerie-makes/notion-linux) - Native Notion packages for Linux
+- [valin4tor/notion-linux](https://github.com/valin4tor/notion-linux) - Native Notion packages for Linux
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [victoriadrake/gitdo](https://github.com/victoriadrake/gitdo) - 🦾 Tools for doing things with Git repositories
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Swift 
 
@@ -492,19 +496,19 @@ layout: default
 
 ## TypeScript 
 
-- [rizkimcitra/rizkicitra.dev](https://github.com/rizkimcitra/rizkicitra.dev) - My Personal Website, it's nice.
+- [rimzzlabs/website](https://github.com/rimzzlabs/website) - My Personal Website, it's nice.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
 - [PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
@@ -521,7 +525,7 @@ layout: default
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
-- [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes.
+- [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes. It uses Next.js and Notion as CMS.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 
@@ -535,4 +539,6 @@ layout: default
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [brennanbrown](https://github.com/brennanbrown) has waived all copyright and related or neighboring rights to this work.
+
+
 
