@@ -1,0 +1,63 @@
+name: Update index.md
+
+on:
+  workflow_run:
+    workflows: ["update awesome-stars"]
+    types:
+      - completed
+
+jobs:
+  update-index-html:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Update index.md
+        run: |
+          python - <<EOF
+          import yaml
+          
+          with open('README.md', 'r') as readme_file:
+              readme_content = readme_file.read()
+          
+          with open('index.html', 'r') as index_file:
+              index_content = index_file.read()
+          
+          # Find the content section in index.html
+          start_marker = '## Contents'
+          end_marker = '---'
+          start_index = index_content.find(start_marker)
+          end_index = index_content.find(end_marker, start_index)
+          
+          if start_index != -1 and end_index != -1:
+              # Extract the YAML front matter
+              front_matter = index_content[:start_index]
+              
+              # Replace the content in index.html with the content from README.md
+              new_index_content = front_matter + readme_content
+              
+              with open('index.html', 'w') as index_file:
+                  index_file.write(new_index_content)
+          else:
+              print("Could not find the content section in index.html")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "mail@brennanbrown.ca"
+          git config --local user.name "brennanbrown"
+          git add index.html
+          git commit -m "Update index.html with latest stars" || echo "No changes to commit"
+          git push
