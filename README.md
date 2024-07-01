@@ -44,7 +44,6 @@
 
 ## Astro 
 
-- [rimzzlabs/website](https://github.com/rimzzlabs/website) - My Personal Website, it's nice.
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
 
 ## C 
@@ -494,6 +493,7 @@
 
 ## TypeScript 
 
+- [rimzzlabs/website](https://github.com/rimzzlabs/website) - My Personal Website, it's nice.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [TaskRatchet/bm](https://github.com/TaskRatchet/bm) - 
