@@ -232,7 +232,6 @@
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [zulvkr/StaticForm](https://github.com/zulvkr/StaticForm) - Form Builder made with static websites. Built with 11ty + NetlifyCMS 🦾
 - [zachleat/speedlify-score](https://github.com/zachleat/speedlify-score) - A web component that shows Lighthouse scores via Speedlify.
-- [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [nhoizey/nicolas-hoizey.com](https://github.com/nhoizey/nicolas-hoizey.com) - The personal website/blog from Nicolas Hoizey, built with https://pack11ty.dev/
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [fephil/jamstack-website](https://github.com/fephil/jamstack-website) - 📖   An opinionated workflow for building modern Jamstack (static) websites
@@ -454,6 +453,7 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website built with 11ty
 - [community-led-design/kit](https://github.com/community-led-design/kit) - The source files for the Community-Led Co-design Kit.
+- [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [systemdes/personal-website](https://github.com/systemdes/personal-website) - 👨🏼‍💻 Personal site powered by the static-site-starter
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
 - [BravishkaSkytano/libretto-book](https://github.com/BravishkaSkytano/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
