@@ -45,6 +45,7 @@
 ## Astro 
 
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
+- [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
 ## C 
 
@@ -516,7 +517,6 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
-- [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
