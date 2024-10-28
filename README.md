@@ -44,6 +44,7 @@
 
 ## Astro 
 
+- [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
