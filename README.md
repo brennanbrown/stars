@@ -276,7 +276,6 @@
 
 ## MDX 
 
-- [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 
@@ -311,6 +310,7 @@
 
 ## Others 
 
+- [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
 - [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 - [andrewmcodes/obsidian-beginner-vault-template](https://github.com/andrewmcodes/obsidian-beginner-vault-template) - A minimal template for your first Obsidian vault aimed at setting good defaults.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
@@ -456,7 +456,7 @@
 - [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [dandevri/website](https://github.com/dandevri/website) - 👨🏼‍💻 Personal site powered by the static-site-starter
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
-- [BravishkaSkytano/libretto-book](https://github.com/BravishkaSkytano/libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
+- [BravishkaSkytano/jekyll-theme-libretto-book](https://github.com/BravishkaSkytano/jekyll-theme-libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
@@ -492,6 +492,7 @@
 
 ## TypeScript 
 
+- [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [rimzzlabs/website](https://github.com/rimzzlabs/website) - rimzzlabs' personal website built with Astro. it's small but nice
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
@@ -517,7 +518,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
