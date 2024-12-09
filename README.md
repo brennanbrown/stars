@@ -359,7 +359,6 @@
 - [kyrose/awesome-digital-gardens](https://github.com/kyrose/awesome-digital-gardens) - Inspirational digital gardens and resources for building your own 🍄🌻🌺🌿🌷🌼🌳🌻🌷🌼🌼🌻
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
-- [JoshuaPoddoku/awesome-linkedin-profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles) - Top LinkedIn Profiles especially for developers and designers including some LinkedIn specialists, Entrepreneurs, and Strategists.
 - [fission-codes/awesome-discord-announce](https://github.com/fission-codes/awesome-discord-announce) - An awesome list of dev-focused Discord announce channels
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -460,7 +459,7 @@
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [nhoizey/pack11ty](https://github.com/nhoizey/pack11ty) - An heavily opinionated Eleventy template project with Sass
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
-- [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My online resume and blog, created with 11ty, Sass, and JavaScript.
+- [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My personal website and blog, created with 11ty, Sass, and JavaScript.
 - [x64onl/jekyll-piratesec](https://github.com/x64onl/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [FoamFactory/bubbling-ale](https://github.com/FoamFactory/bubbling-ale) - A Jekyll theme inspired by beer
 - [artemsheludko/derrick](https://github.com/artemsheludko/derrick) - 🙌  Derrick is a clean minimal and fast theme for a personal blog.
