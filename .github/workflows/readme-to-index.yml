@@ -1,0 +1,54 @@
+name: Convert README to Index
+
+on:
+  push:
+    paths:
+      - 'README.md'
+    branches:
+      - main  # Change to your default branch if different
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  convert-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Convert README.md to index.md
+        run: |
+          # Remove the lint disable comment from the beginning
+          sed '1{/^<!--lint disable/d;}' README.md > temp_readme.md
+          
+          # Add Jekyll front matter and content to index.md
+          cat > index.md << 'EOF'
+          ---
+          layout: default
+          ---
+          
+          EOF
+          
+          # Append the cleaned README content
+          cat temp_readme.md >> index.md
+          
+          # Clean up temporary file
+          rm temp_readme.md
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes to commit
+          if git diff --quiet index.md; then
+            echo "No changes to index.md"
+            exit 0
+          fi
+          
+          git add index.md
+          git commit -m "Auto-update index.md from README.md"
+          git push
