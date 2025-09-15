@@ -112,6 +112,7 @@
 
 ## HTML 
 
+- [brennanbrown/foothills](https://github.com/brennanbrown/foothills) - ⛰️A tumblr theme designed to be a cozy, comfy portfolio for poetry and other writing.
 - [brennanbrown/Campfire-Hugo-Theme](https://github.com/brennanbrown/Campfire-Hugo-Theme) - 🏕️ A warm, story-focused Hugo theme focusing on typography and opinionated design choices.
 - [baileylockheart/lockheartlove](https://github.com/baileylockheart/lockheartlove) - My personal website!!!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -290,6 +291,7 @@
 
 ## Nunjucks 
 
+- [brennanbrown/berryhouse](https://github.com/brennanbrown/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
 - [brennanbrown/11ty-Indie-Web-Blog-Starter](https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter) - 🎈 A modern, feature-complete blog template built with Eleventy and Tailwind CSS. Designed for writers who want to own their content and participate in the IndieWeb.
 - [sophiekoonin/localghost](https://github.com/sophiekoonin/localghost) - the source code of localghost.dev
 - [5t3ph/moderncss-dot-dev](https://github.com/5t3ph/moderncss-dot-dev) - Posts from the series "Modern CSS Solutions to Old CSS Problems"
