@@ -93,6 +93,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -815,6 +816,27 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 
+## obsidian 
+
+- [andrewmcodes/obsidian-beginner-vault-template](https://github.com/andrewmcodes/obsidian-beginner-vault-template) - A minimal template for your first Obsidian vault aimed at setting good defaults.
+- [NicklasVraa/Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export) - Turn your obsidian notes into academic papers.
+- [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
+- [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
+- [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
+- [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
+- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+- [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+- [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
+- [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
+
 ## obsidian-md 
 
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
@@ -868,6 +890,7 @@
 
 ## others 
 
+- [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [brennanbrown/berryhouse](https://github.com/brennanbrown/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
 - [flowershow/themes](https://github.com/flowershow/themes) - Collection of official Flowershow themes
 - [brennanbrown/Campfire-Hugo-Theme](https://github.com/brennanbrown/Campfire-Hugo-Theme) - 🏕️ A warm, story-focused Hugo theme focusing on typography and opinionated design choices.
