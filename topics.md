@@ -25,6 +25,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -139,6 +140,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -286,6 +288,7 @@
 
 ## cli 
 
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -293,6 +296,10 @@
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## cloud 
+
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 
 ## cms 
 
@@ -890,6 +897,7 @@
 
 ## others 
 
+- [antiwork/smallbets](https://github.com/antiwork/smallbets) - The software that runs the Small Bets community
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [brennanbrown/berryhouse](https://github.com/brennanbrown/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
 - [flowershow/themes](https://github.com/flowershow/themes) - Collection of official Flowershow themes
@@ -1051,7 +1059,6 @@
 - [JonasCz/How-To-Prevent-Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping) - The ultimate guide on preventing Website Scraping
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [busterbenson/notes](https://github.com/busterbenson/notes) - 
 - [beeminder/apidocs](https://github.com/beeminder/apidocs) - Beeminder API Reference
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -1072,6 +1079,7 @@
 
 ## productivity 
 
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1145,6 +1153,7 @@
 
 ## rust 
 
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
@@ -1227,6 +1236,7 @@
 
 ## terminal 
 
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1324,6 +1334,10 @@
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [B00merang-Project/Redmond-Themes](https://github.com/B00merang-Project/Redmond-Themes) - Home of the B00merang Redmond Collection themes for Linux
+
+## zsh 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
