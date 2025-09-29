@@ -332,6 +332,7 @@
 - [danspinola/vscode-for-writers](https://github.com/danspinola/vscode-for-writers) - 
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
@@ -433,6 +434,7 @@
 
 ## Ruby 
 
+- [antiwork/smallbets](https://github.com/antiwork/smallbets) - The software that runs the Small Bets community
 - [JayCuthrell/jaycuthrell.com](https://github.com/JayCuthrell/jaycuthrell.com) - Circa 2014 - My oft recycled website now running Jekyll with the So Simple Jekyll Theme on GitHub Pages
 - [mekomlusa/Jekyll-to-Ghost](https://github.com/mekomlusa/Jekyll-to-Ghost) - Migrate your posts on Jekyll to Ghost based platform. Tested under Ghost 2.0 and Jekyll 3.8.5
 - [manunamz/jekyll-wikilinks](https://github.com/manunamz/jekyll-wikilinks) - Add [[wikilinks]] support for jekyll.
@@ -446,6 +448,7 @@
 
 ## Rust 
 
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
 - [hackclub/burrow](https://github.com/hackclub/burrow) - Burrow is a tool for burrowing through firewalls, built by teenagers at Hack Club.
@@ -517,7 +520,6 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
