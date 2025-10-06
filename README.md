@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
@@ -57,6 +58,10 @@
 ## C# # 
 
 - [misprit7/WireHead](https://github.com/misprit7/WireHead) - A Terraria mod that reimplements the wiring system much more efficiently
+
+## C++ 
+
+- [google/mozc-devices](https://github.com/google/mozc-devices) - Circuit diagrams and firmware source code for Gboard DIY keyboards
 
 ## CSS 
 
@@ -183,6 +188,7 @@
 
 ## JavaScript 
 
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
@@ -410,7 +416,6 @@
 ## Python 
 
 - [brennanbrown/markdown-to-docx](https://github.com/brennanbrown/markdown-to-docx) - A website that converts markdown files to Microsoft Word format.
-- [google/mozc-devices](https://github.com/google/mozc-devices) - Circuit diagrams and firmware source code for Gboard DIY keyboards
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [davidangel/DayOne-JSON-to-MD](https://github.com/davidangel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.
