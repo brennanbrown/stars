@@ -140,6 +140,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -276,6 +277,7 @@
 
 ## chatgpt 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## chatgpt-api 
@@ -415,6 +417,7 @@
 
 ## electron 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNj
 - [vtenfys/notion-linux](https://github.com/vtenfys/notion-linux) - Native Notion packages for Linux
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
@@ -755,6 +758,8 @@
 
 ## markdown 
 
+- [brsloan/warewoolf](https://github.com/brsloan/warewoolf) - A minimalist novel-writing system/rich text editor designed to be usable without a mouse. For desktop and standalone word processors/digital typewriters/writerDecks.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
@@ -826,6 +831,7 @@
 
 ## obsidian 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [andrewmcodes/obsidian-beginner-vault-template](https://github.com/andrewmcodes/obsidian-beginner-vault-template) - A minimal template for your first Obsidian vault aimed at setting good defaults.
 - [NicklasVraa/Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export) - Turn your obsidian notes into academic papers.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
@@ -894,6 +900,7 @@
 
 ## openai 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## others 
@@ -1124,7 +1131,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
@@ -1176,6 +1183,7 @@
 
 ## self-hosted 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## serverless 
@@ -1335,6 +1343,10 @@
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [B00merang-Project/Redmond-Themes](https://github.com/B00merang-Project/Redmond-Themes) - Home of the B00merang Redmond Collection themes for Linux
+
+## youtube 
+
+- [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 
 ## zsh 
 
