@@ -1132,7 +1132,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
