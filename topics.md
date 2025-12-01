@@ -29,6 +29,7 @@
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
@@ -101,6 +102,7 @@
 - [openai](#openai)
 - [others](#others)
 - [p2p](#p2p)
+- [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -303,7 +305,7 @@
 
 ## clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
 ## cloud 
 
@@ -326,6 +328,13 @@
 - [lmammino/awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) - A collection of tech resources that allow you to learn new things by playing games
 - [victoriadrake/victoriadrake.github.io](https://github.com/victoriadrake/victoriadrake.github.io) - 🌱 Victoria's autonomous self-improving blockchain-fortified AI static website
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+
+## command-line 
+
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [victoriadrake/gitdo](https://github.com/victoriadrake/gitdo) - 🦾 Tools for doing things with Git repositories
 
 ## computer-science 
 
@@ -490,7 +499,7 @@
 
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [victoriadrake/gitdo](https://github.com/victoriadrake/gitdo) - 🦾 Tools for doing things with Git repositories
@@ -778,7 +787,7 @@
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -989,7 +998,6 @@
 - [Donohue/medium-to-jekyll](https://github.com/Donohue/medium-to-jekyll) - Convert Medium exported posts to Jekyll posts
 - [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [frnsys/port.py](https://github.com/frnsys/port.py) - lightweight blogging platform
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [felixrieseberg/windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - :telescope: Turning Windows into an environment ready for modern development
@@ -1088,6 +1096,12 @@
 ## p2p 
 
 - [ipfs-shipyard/ipfs-pubsub-room](https://github.com/ipfs-shipyard/ipfs-pubsub-room) - IPFS Pubsub room
+
+## portfolio-website 
+
+- [rimzzlabs/website](https://github.com/rimzzlabs/website) - rimzzlabs' personal website built with Astro. it's small but nice
+- [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
+- [SuzeShardlow/SuzeShardlow.github.io](https://github.com/SuzeShardlow/SuzeShardlow.github.io) - Rising Star In Technology Award Winner 2021 • Women In Software Power List 2020 • TechWomen 100 Award Winner 2020 • Coder • Technical Writer • Tech Event Host • Community Lead, Ladies Of Code
 
 ## powershell 
 
