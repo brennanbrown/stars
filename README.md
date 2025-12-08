@@ -326,7 +326,6 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [pfefferle/awesome-indieweb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb stuff
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
 - [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
@@ -513,6 +512,7 @@
 ## TypeScript 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [rimzzlabs/website](https://github.com/rimzzlabs/website) - rimzzlabs' personal website built with Astro. it's small but nice
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
@@ -528,7 +528,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
