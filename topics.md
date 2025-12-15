@@ -58,6 +58,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -281,16 +282,16 @@
 
 ## chatbot 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome-extension 
 
@@ -494,6 +495,10 @@
 ## game-engine 
 
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
+
+## generative-ai 
+
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 
 ## git 
 
@@ -723,7 +728,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## languages 
 
@@ -922,6 +927,8 @@
 
 ## others 
 
+- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
+- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [antiwork/smallbets](https://github.com/antiwork/smallbets) - The software that runs the Small Bets community
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [brennanbrown/berryhouse](https://github.com/brennanbrown/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
@@ -1187,6 +1194,7 @@
 
 ## rust 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -1273,6 +1281,7 @@
 
 ## terminal 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -1314,6 +1323,7 @@
 
 ## vim 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 
 ## vue 
