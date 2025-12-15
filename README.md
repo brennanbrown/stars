@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Liquid](#liquid)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -36,6 +37,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -47,7 +49,6 @@
 
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
-- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
 ## C 
@@ -65,6 +66,7 @@
 
 ## CSS 
 
+- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [flowershow/themes](https://github.com/flowershow/themes) - Collection of official Flowershow themes
 - [NicklasVraa/Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export) - Turn your obsidian notes into academic papers.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
@@ -201,7 +203,6 @@
 - [zachleat/performance-leaderboard-pagespeed-insights](https://github.com/zachleat/performance-leaderboard-pagespeed-insights) - A plugin to run Lighthouse on Pagespeed Insights against a set of urls to see which site is the fastest.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [fairfield-programming/fairfield-programming.github.io](https://github.com/fairfield-programming/fairfield-programming.github.io) - 🌐 The website for the Fairfield Programming Association.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
 - [jlnbxn/Markdownloader](https://github.com/jlnbxn/Markdownloader) - Markdownloader makes it possible to fetch articles directly from the web. Inspired by the popular outline.com, it also ditches paywalls in the process, leaving clutter and content blockers behind.
@@ -284,6 +285,10 @@
 - [allejo/jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) - A GitHub Pages compatible way of adding anchors to your headings without a plug-in or JavaScript :octocat:
 - [arpitbatra123/personal-website-old](https://github.com/arpitbatra123/personal-website-old) - my place on the interwebz
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
+
+## Lua 
+
+- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 
 ## MDX 
 
@@ -454,6 +459,7 @@
 
 ## Rust 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) - A fully compliant RISC-V computer made inside the game Terraria
@@ -509,6 +515,10 @@
 
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 
+## Twig 
+
+- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
+
 ## TypeScript 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -519,6 +529,7 @@
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [PinePeakDigital/bm](https://github.com/PinePeakDigital/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
