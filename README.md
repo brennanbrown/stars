@@ -313,6 +313,7 @@
 - [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
 - [accessibility-exchange/co-design](https://github.com/accessibility-exchange/co-design) - The co-design website for The Accessibility Exchange.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
+- [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [philhawksworth/hawksworx.com](https://github.com/philhawksworth/hawksworx.com) - My hawksworx.com blog site, powered by Eleventy and Netlify
 - [siakaramalegos/sia.codes-eleventy](https://github.com/siakaramalegos/sia.codes-eleventy) - Eleventy version of my personal site
@@ -346,7 +347,6 @@
 - [danspinola/vscode-for-writers](https://github.com/danspinola/vscode-for-writers) - 
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [busterbenson/public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
@@ -481,7 +481,6 @@
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [tannerdolby/tannerdolby.com](https://github.com/tannerdolby/tannerdolby.com) - The home of my personal website built with 11ty
 - [community-led-design/kit](https://github.com/community-led-design/kit) - The source files for the Community-Led Co-design Kit.
-- [inclusive-design/wecount.inclusivedesign.ca](https://github.com/inclusive-design/wecount.inclusivedesign.ca) - The source files for the We Count website, built with Eleventy.
 - [chriskrycho/v5.chriskrycho.com](https://github.com/chriskrycho/v5.chriskrycho.com) - The fifth version of chriskrycho.com, built in Eleventy.
 - [BravishkaSkytano/jekyll-theme-libretto-book](https://github.com/BravishkaSkytano/jekyll-theme-libretto-book) - :scroll: An updated version of the Libretto theme, tailored for hosting books
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
@@ -508,6 +507,7 @@
 
 ## Swift 
 
+- [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [brennanbrown/bearminder](https://github.com/brennanbrown/bearminder) - Keeping track of daily word counts from the Bear app into Beeminder [work-in-progress]
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
@@ -539,6 +539,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [nikivdev/research](https://github.com/nikivdev/research) - 
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
