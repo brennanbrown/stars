@@ -130,6 +130,7 @@
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -771,6 +772,7 @@
 
 ## macos 
 
+- [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [banhbaoxamlan/X230-Hackintosh](https://github.com/banhbaoxamlan/X230-Hackintosh) - READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1249,10 +1251,12 @@
 
 ## swift 
 
+- [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
 ## swiftui 
 
+- [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
 ## tailwind 
@@ -1293,6 +1297,10 @@
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
+
+## tui 
+
+- [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Your journal app if you live in a terminal
 
 ## typescript 
 
