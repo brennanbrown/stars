@@ -183,6 +183,7 @@
 
 ## awesome 
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [pfefferle/awesome-indieweb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb stuff
@@ -219,6 +220,7 @@
 
 ## awesome-list 
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
@@ -772,6 +774,7 @@
 
 ## macos 
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [banhbaoxamlan/X230-Hackintosh](https://github.com/banhbaoxamlan/X230-Hackintosh) - READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh
@@ -929,11 +932,14 @@
 
 ## others 
 
+- [XXIIVV/oscean](https://github.com/XXIIVV/oscean) - Static wiki engine written in Uxntal
+- [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
+- [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [antiwork/smallbets](https://github.com/antiwork/smallbets) - The software that runs the Small Bets community
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
-- [brennanbrown/berryhouse](https://github.com/brennanbrown/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
+- [Berry-House-YYC/berryhouse](https://github.com/Berry-House-YYC/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
 - [flowershow/themes](https://github.com/flowershow/themes) - Collection of official Flowershow themes
 - [brennanbrown/Campfire-Hugo-Theme](https://github.com/brennanbrown/Campfire-Hugo-Theme) - 🏕️ A warm, story-focused Hugo theme focusing on typography and opinionated design choices.
 - [baileylockheart/lockheartlove](https://github.com/baileylockheart/lockheartlove) - My personal website!!!
@@ -1251,11 +1257,13 @@
 
 ## swift 
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
 ## swiftui 
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [otaviocc/Triton](https://github.com/otaviocc/Triton) - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
