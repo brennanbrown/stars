@@ -49,7 +49,6 @@
 
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
-- [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
 ## C 
 
@@ -296,6 +295,7 @@
 
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
+- [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
 ## Makefile 
 
