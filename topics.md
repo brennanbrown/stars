@@ -135,6 +135,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1336,6 +1337,10 @@
 ## ui-design 
 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+
+## userscript 
+
+- [narthur/bm-power-breaks](https://github.com/narthur/bm-power-breaks) - Add power features to Beeminder breaks page.
 
 ## vim 
 
