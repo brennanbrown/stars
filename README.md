@@ -119,6 +119,7 @@
 
 ## HTML 
 
+- [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) - Static wiki engine written in Uxntal
 - [brennanbrown/atlas-prompt-injection-poc](https://github.com/brennanbrown/atlas-prompt-injection-poc) - A proof-of-concept to see if AI browsers such as Atlas or Comet can be easily exploited.
 - [brennanbrown/foothills](https://github.com/brennanbrown/foothills) - ⛰️A tumblr theme designed to be a cozy, comfy portfolio for poetry and other writing.
