@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
+- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -106,6 +107,10 @@
 
 - [retorquere/zotero-deb](https://github.com/retorquere/zotero-deb) - Packaged versions of Zotero and Juris-M for Debian-based systems
 
+## Dockerfile 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+
 ## Elixir 
 
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -114,6 +119,7 @@
 ## Go 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
@@ -194,7 +200,7 @@
 
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
 - [brsloan/warewoolf](https://github.com/brsloan/warewoolf) - A minimalist novel-writing system/rich text editor designed to be usable without a mouse. For desktop and standalone word processors/digital typewriters/writerDecks.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
@@ -414,6 +420,8 @@
 
 ## PHP 
 
+- [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
+- [aaronpk/Quill](https://github.com/aaronpk/Quill) - 🖋 A Micropub client for creating posts
 - [ActionRetro/68k-news](https://github.com/ActionRetro/68k-news) - Source for the 68k.news site
 - [ActionRetro/FrogFind](https://github.com/ActionRetro/FrogFind) - Source for the FrogFind search engine for vintage computers
 - [raamdev/independent-publisher](https://github.com/raamdev/independent-publisher) - A beautiful reader-focused WordPress theme, for you.
@@ -425,6 +433,7 @@
 
 ## Python 
 
+- [modgethanc/ttbp](https://github.com/modgethanc/ttbp) - the tilde.town feels engine
 - [brennanbrown/markdown-to-docx](https://github.com/brennanbrown/markdown-to-docx) - A website that converts markdown files to Microsoft Word format.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
@@ -498,6 +507,7 @@
 
 ## Shell 
 
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
@@ -544,7 +554,6 @@
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
