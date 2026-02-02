@@ -15,6 +15,7 @@
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -49,6 +50,7 @@
 ## Astro 
 
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
+- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
 
 ## C 
@@ -81,7 +83,7 @@
 - [RadiumP/jekyll-theme-pdz](https://github.com/RadiumP/jekyll-theme-pdz) - Blog / Jekyll Themes / PWA
 - [YJPL/Supply](https://github.com/YJPL/Supply) - 🛍  Supply is a free e-commerce Jekyll theme with Gumroad integration.
 - [jimbrig/obsidian_vault](https://github.com/jimbrig/obsidian_vault) - Personal Obsidian Vault
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
 - [5t3ph/smol-11ty-starter](https://github.com/5t3ph/smol-11ty-starter) - Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.
 - [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
@@ -116,6 +118,10 @@
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [quantified-self-tools/altbee](https://github.com/quantified-self-tools/altbee) - Altbee — the alternative Beeminder web interface
 
+## Emacs Lisp 
+
+- [rrajath/org-retro-journal](https://github.com/rrajath/org-retro-journal) - Look back through the years at your org journal for the current date to see what you journaled about
+
 ## Go 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -125,6 +131,7 @@
 
 ## HTML 
 
+- [brob/butmyclientwants.com](https://github.com/brob/butmyclientwants.com) - 
 - [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) - Static wiki engine written in Uxntal
 - [brennanbrown/atlas-prompt-injection-poc](https://github.com/brennanbrown/atlas-prompt-injection-poc) - A proof-of-concept to see if AI browsers such as Atlas or Comet can be easily exploited.
@@ -300,7 +307,7 @@
 
 ## MDX 
 
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
@@ -546,7 +553,6 @@
 - [narthur/remnote-beeminder](https://github.com/narthur/remnote-beeminder) - 
 - [PinePeakDigital/bm](https://github.com/PinePeakDigital/bm) - 
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero, by providing a set of community plugins for both Obsidian and Zotero.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
