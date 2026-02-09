@@ -142,6 +142,7 @@
 - [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
 - [ronv/jam](https://github.com/ronv/jam) - Jam is a minimal personal blog and portfolio theme powered by Hugo. Demo: https://jam-hugo.netlify.app/
 - [brennanbrown/WriteClub](https://github.com/brennanbrown/WriteClub) - ✏️ Mount Royal University's Creative Writing Club (https://writeclub.ca) is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well a
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [ronv/writer](https://github.com/ronv/writer) - Writer is content focused, minimal theme for Hugo. The theme is perfectly suitable for writers.
 - [Tix3Dev/tix3dev.github.io](https://github.com/Tix3Dev/tix3dev.github.io) - A personal blog about all kinds of nerdy stuff made with purelog :D
@@ -205,6 +206,7 @@
 
 ## JavaScript 
 
+- [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
 - [brsloan/warewoolf](https://github.com/brsloan/warewoolf) - A minimalist novel-writing system/rich text editor designed to be usable without a mouse. For desktop and standalone word processors/digital typewriters/writerDecks.
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
@@ -307,7 +309,6 @@
 
 ## MDX 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
@@ -322,6 +323,7 @@
 
 ## Nunjucks 
 
+- [clottman/link-in-bio-11ty](https://github.com/clottman/link-in-bio-11ty) - an Eleventy starter project for makings lists of links
 - [Berry-House-YYC/berryhouse](https://github.com/Berry-House-YYC/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
 - [brennanbrown/11ty-Indie-Web-Blog-Starter](https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter) - 🎈 A modern, feature-complete blog template built with Eleventy and Tailwind CSS. Designed for writers who want to own their content and participate in the IndieWeb.
 - [sophiekoonin/localghost](https://github.com/sophiekoonin/localghost) - the source code of localghost.dev
@@ -440,6 +442,7 @@
 
 ## Python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [modgethanc/ttbp](https://github.com/modgethanc/ttbp) - the tilde.town feels engine
