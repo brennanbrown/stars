@@ -42,7 +42,6 @@ layout: default
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
-- [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -55,6 +54,7 @@ layout: default
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
 - [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
+- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 
 ## C 
 
@@ -134,6 +134,7 @@ layout: default
 
 ## HTML 
 
+- [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [nipdep/portfolio](https://github.com/nipdep/portfolio) - Innovating with Intelligence: My AI Odyssey.
@@ -327,7 +328,7 @@ layout: default
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Nunjucks 
 
@@ -356,6 +357,7 @@ layout: default
 
 ## Others 
 
+- [slimhk45/awesome-obsidian-alternatives](https://github.com/slimhk45/awesome-obsidian-alternatives) - A community-maintained directory of free and open-source Obsidian clones and the technologies used to build them. Our goal is to create a central hub for this part of the note-taking app ecosystem.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -402,7 +404,7 @@ layout: default
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [chrissy-dev/awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) - A collection of awesome Eleventy (11ty) tools, templates, plugins, guides, snippet, etc.
+- [anydigital/awesome-11ty-build-awesome](https://github.com/anydigital/awesome-11ty-build-awesome) - A curated list of awesome Eleventy (soon Build Awesome) starters, plugins, tutorials, sites and even more:
 - [jeromecoupe/iad_eleventy_introduction](https://github.com/jeromecoupe/iad_eleventy_introduction) - An introduction to Eleventy (11ty)
 - [bt-rb/vscode-blogging-extension-pack](https://github.com/bt-rb/vscode-blogging-extension-pack) - A collection of extensions to enhance content curation and creation for VS Code + Bridgetown
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
@@ -552,10 +554,6 @@ layout: default
 ## TeX 
 
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
-
-## Twig 
-
-- [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 
 ## TypeScript 
 
