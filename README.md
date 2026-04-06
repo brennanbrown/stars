@@ -68,7 +68,6 @@
 
 ## CSS 
 
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [flowershow/themes](https://github.com/flowershow/themes) - Collection of official Flowershow themes
@@ -125,12 +124,13 @@
 ## Go 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
 ## HTML 
 
+- [welpo/iine](https://github.com/welpo/iine) - simple likes for the small/indie web
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
@@ -212,6 +212,7 @@
 
 ## JavaScript 
 
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
 - [brsloan/warewoolf](https://github.com/brsloan/warewoolf) - A minimalist novel-writing system/rich text editor designed to be usable without a mouse. For desktop and standalone word processors/digital typewriters/writerDecks.
@@ -354,6 +355,8 @@
 
 ## Others 
 
+- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS](https://github.com/victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS) - 
 - [slimhk45/awesome-obsidian-alternatives](https://github.com/slimhk45/awesome-obsidian-alternatives) - A community-maintained directory of free and open-source Obsidian clones and the technologies used to build them. Our goal is to create a central hub for this part of the note-taking app ecosystem.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
@@ -473,7 +476,7 @@
 - [angelahe/katapy](https://github.com/angelahe/katapy) - 
 - [jordn/heroku-django-s3](https://github.com/jordn/heroku-django-s3) - A clean Django project running on Heroku with static files served from Amazon S3.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [busterbenson/notes](https://github.com/busterbenson/notes) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
