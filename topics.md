@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agents](#agents)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -155,6 +156,10 @@
 ## 3d 
 
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
+
+## agents 
+
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## ai 
 
