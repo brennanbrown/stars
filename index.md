@@ -176,7 +176,6 @@ layout: default
 - [digitalgardeners/site](https://github.com/digitalgardeners/site) - The public site for the Digital Gardeners' digital garden, built with the notes from the notes repository.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [planetoftheweb/seven](https://github.com/planetoftheweb/seven) - Eleventy template using Bootstrap, Sass, Webpack, Vue.js powered search, includes lots of other features
-- [imjasonh/quit.social](https://github.com/imjasonh/quit.social) - Just stay off the internet
 - [victoriadrake/neofeed-theme](https://github.com/victoriadrake/neofeed-theme) - A personal feed for Neocities, GitHub Pages, or anywhere else, built with Hugo. #IndieWeb friendly and all yours. It's better than Twitter.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
@@ -281,6 +280,7 @@ layout: default
 - [stowball/elf](https://github.com/stowball/elf) - Elf is a simple & magical Eleventy starter kit to help you create a project using standard technologies like webpack, Babel and Sass, while also considering ease of use, performance and browser compat
 - [gregives/Twelvety](https://github.com/gregives/Twelvety) - An Eleventy starter project built to be fast
 - [MadeByMike/supermaya](https://github.com/MadeByMike/supermaya) - 
+- [imjasonh/quit.social](https://github.com/imjasonh/quit.social) - Just stay off the internet
 - [jamstack-cms/jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) - A starter project for building performant ECommerce applications with Next.js and React
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - zachleat.com is powered by Eleventy and WebC.
