@@ -261,7 +261,7 @@ layout: default
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [AfroDevGirl/full-stack-accessibility](https://github.com/AfroDevGirl/full-stack-accessibility) - An example application for full stack accessibility
@@ -319,6 +319,7 @@ layout: default
 ## MDX 
 
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Makefile 
 
@@ -403,8 +404,7 @@ layout: default
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [anyblades/awesome-11ty-buildawesome](https://github.com/anyblades/awesome-11ty-buildawesome) - Awesome Eleventy list + Eleventy Blades plugin docs 2-in-1 🥷🕶️
+- [anyblades/awesome-11ty-buildawesome](https://github.com/anyblades/awesome-11ty-buildawesome) - Home for awesome Eleventy list and Eleventy Blades docs 🥷🕶️ 2-in-1
 - [jeromecoupe/iad_eleventy_introduction](https://github.com/jeromecoupe/iad_eleventy_introduction) - An introduction to Eleventy (11ty)
 - [bt-rb/vscode-blogging-extension-pack](https://github.com/bt-rb/vscode-blogging-extension-pack) - A collection of extensions to enhance content curation and creation for VS Code + Bridgetown
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
