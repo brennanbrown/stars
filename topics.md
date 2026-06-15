@@ -959,6 +959,7 @@
 
 ## others 
 
+- [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
 - [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
 - [slimhk45/awesome-obsidian-alternatives](https://github.com/slimhk45/awesome-obsidian-alternatives) - A community-maintained directory of free and open-source Obsidian clones and the technologies used to build them. Our goal is to create a central hub for this part of the note-taking app ecosystem.
