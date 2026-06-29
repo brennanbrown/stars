@@ -91,6 +91,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [music](#music)
 - [nextjs](#nextjs)
@@ -378,6 +379,7 @@
 
 ## css 
 
+- [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://beejournal.netlify.app
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -608,6 +610,7 @@
 
 ## html 
 
+- [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
 - [brennanbrown/foothills](https://github.com/brennanbrown/foothills) - ⛰️A tumblr theme designed to be a cozy, comfy portfolio for poetry and other writing.
 - [brennanbrown/journalbar](https://github.com/brennanbrown/journalbar) - 🐝 A personal blog for self-quantification and personal improvement via Beeminder. Powered by Jekyll. / https://beejournal.netlify.app
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -830,6 +833,10 @@
 - [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 
+## mcp 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
 ## microsoft 
 
 - [B00merang-Project/Redmond-Themes](https://github.com/B00merang-Project/Redmond-Themes) - Home of the B00merang Redmond Collection themes for Linux
@@ -982,7 +989,6 @@
 - [XXIIVV/oscean](https://github.com/XXIIVV/oscean) - Static wiki engine written in Uxntal
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
-- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [Berry-House-YYC/berryhouse](https://github.com/Berry-House-YYC/berryhouse) - 🍓 Berry House is an independent agency and studio based out of Calgary, Canada that builds fast, accessible JAMstack websites and thoughtful, effective writing. We help independent creators, non‑profi
