@@ -213,7 +213,7 @@
 - [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
 - [brsloan/warewoolf](https://github.com/brsloan/warewoolf) - A minimalist novel-writing system/rich text editor designed to be usable without a mouse. For desktop and standalone word processors/digital typewriters/writerDecks.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Hundreds of real-world examples. Framework-agnostic, open s
 - [deathau/death.au-11ty](https://github.com/deathau/death.au-11ty) - My personal website, built with eleventy
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [retorquere/zotero-pkg](https://github.com/retorquere/zotero-pkg) - Packaged versions of Zotero and Juris-M for Debian-based systems
@@ -282,7 +282,6 @@
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - zachleat.com is powered by Eleventy and WebC.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [narthur/beeminder-wiki](https://github.com/narthur/beeminder-wiki) - 
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -341,7 +340,7 @@
 - [siakaramalegos/sia.codes-eleventy](https://github.com/siakaramalegos/sia.codes-eleventy) - Eleventy version of my personal site
 - [BrianMitchL/brianm.me](https://github.com/BrianMitchL/brianm.me) - ✨ Portfolio website and blog
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
-- [anyblades/awesome-buildawesome](https://github.com/anyblades/awesome-buildawesome) - Awesome 11ty / Build Awesome list AND docs for Build Awesome Kit, 2-in-1 🥷
+- [anyblades/awesome-buildawesome](https://github.com/anyblades/awesome-buildawesome) - Awesome 11ty / Build Awesome list AND docs for Build Awesome Kit, 2-in-1 🥷🕶️
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [chrissy-dev/eleventy-web-starter](https://github.com/chrissy-dev/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
 - [reeseschultz/11r](https://github.com/reeseschultz/11r) - America's favorite Eleventy blog template.
@@ -535,6 +534,7 @@
 
 ## Shell 
 
+- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and Pentium (P5) vintage PCs
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
@@ -560,7 +560,7 @@
 
 ## TypeScript 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 - [rosszurowski/rosszurowski.com](https://github.com/rosszurowski/rosszurowski.com) - Personal site 🌱
 - [rimzzlabs/website](https://github.com/rimzzlabs/website) - rimzzlabs' personal website built with Astro. it's small but nice
@@ -594,6 +594,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [dinhanhthi/dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com) - 🔥  My personal website for taking notes. It uses Next.js and Notion as CMS.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [AleksandrHovhannisyan/aleksandrhovhannisyan.com](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com) - My personal website and blog.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
