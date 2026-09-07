@@ -51,7 +51,6 @@ layout: default
 ## Astro 
 
 - [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) - Dante, a single-author blog and portfolio theme for Astro.js.
-- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [joelhooks/monorepo.party](https://github.com/joelhooks/monorepo.party) - a collection of curated monorepo resources
 - [mattwaler/mattwaler.com](https://github.com/mattwaler/mattwaler.com) - My personal website.
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
@@ -131,6 +130,7 @@ layout: default
 
 ## HTML 
 
+- [timrichardson/timrichardson.github.io](https://github.com/timrichardson/timrichardson.github.io) - 
 - [welpo/iine](https://github.com/welpo/iine) - simple likes for the small/indie web
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
@@ -159,7 +159,7 @@ layout: default
 - [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal) - A simple HTML bullet journal
 - [mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme) - Clean knowledge sharing jekyll theme
 - [MichaelCurrin/html-to-jekyll-sample](https://github.com/MichaelCurrin/html-to-jekyll-sample) - A demo to showcase converting a plain HTML site to a Jekyll site 🌏 🧪
-- [livingdocsIO/gatsby-magazine-example](https://github.com/livingdocsIO/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
+- [livingdocsIO-archive/gatsby-magazine-example](https://github.com/livingdocsIO-archive/gatsby-magazine-example) - This is an open-source Demo Magazine built with Livingdocs and Gatsby/React. Check out the code, make it yours and deploy it to netlify today!
 - [AlanParr/AlanParr.github.io](https://github.com/AlanParr/AlanParr.github.io) - 
 - [abhinavs/cookie](https://github.com/abhinavs/cookie) - Landing website + Blog using Jekyll & Tailwind CSS
 - [18F/accessibility](https://github.com/18F/accessibility) - A repo to organize the guidelines and best practices for accessibility at 18f.
@@ -212,6 +212,7 @@ layout: default
 
 ## JavaScript 
 
+- [WebOrigami/projector](https://github.com/WebOrigami/projector) - 
 - [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
 - [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [mocha/webring](https://github.com/mocha/webring) - Let's make webrings a thing again!
@@ -315,6 +316,7 @@ layout: default
 ## MDX 
 
 - [rimzzlabs/website](https://github.com/rimzzlabs/website) - rimzzlabs' personal website built with Astro. it's small but nice
+- [lowmess/lowmess.com](https://github.com/lowmess/lowmess.com) - My personal portfolio website
 - [raresportan/homepage](https://github.com/raresportan/homepage) - Homepage of Rares Portan, https://raresportan.com
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
