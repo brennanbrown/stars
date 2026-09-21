@@ -144,7 +144,7 @@ layout: default
 - [brennanbrown/Campfire-Hugo-Theme](https://github.com/brennanbrown/Campfire-Hugo-Theme) - 🏕️ A warm, story-focused Hugo theme focusing on typography and opinionated design choices.
 - [baileylockheart/lockheartlove](https://github.com/baileylockheart/lockheartlove) - My personal website!!!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My new portfolio showcasing my marketing work, previous experience, and case studies. Built in Hugo. Under construction!
+- [brennanbrown/marketing](https://github.com/brennanbrown/marketing) - ✨ My portfolio at https://brennanbrown.ca showcasing my work, previous experience, and case studies. Built in Hugo.
 - [ronv/jam](https://github.com/ronv/jam) - Jam is a minimal personal blog and portfolio theme powered by Hugo. Demo: https://jam-hugo.netlify.app/
 - [brennanbrown/WriteClub](https://github.com/brennanbrown/WriteClub) - ✏️ Mount Royal University's Creative Writing Club (https://writeclub.ca) is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well a
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -454,6 +454,7 @@ layout: default
 
 ## Python 
 
+- [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
 - [productiontype/Newsreader](https://github.com/productiontype/Newsreader) - NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
 - [noirblancrouge/YoungSerif](https://github.com/noirblancrouge/YoungSerif) - Young Serif is a variable old style serif typeface
 - [cbcrc/radiocanadafonts](https://github.com/cbcrc/radiocanadafonts) - The Radio-Canada typeface, from Canada's public broadcaster
