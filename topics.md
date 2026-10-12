@@ -595,6 +595,7 @@
 
 ## hacktoberfest 
 
+- [adsr/rw.rs](https://github.com/adsr/rw.rs) - free shell account and web 1.0 hosting @ http://rw.rs/~you
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
@@ -798,7 +799,7 @@
 
 ## linux 
 
-- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and Pentium (P5) vintage PCs
+- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and 586/Pentium (P5) vintage PCs
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -999,6 +1000,7 @@
 
 ## others 
 
+- [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
 - [timrichardson/timrichardson.github.io](https://github.com/timrichardson/timrichardson.github.io) - 
 - [WebOrigami/projector](https://github.com/WebOrigami/projector) - 
