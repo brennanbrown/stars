@@ -453,6 +453,7 @@ layout: default
 
 ## Python 
 
+- [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
 - [productiontype/Newsreader](https://github.com/productiontype/Newsreader) - NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
 - [noirblancrouge/YoungSerif](https://github.com/noirblancrouge/YoungSerif) - Young Serif is a variable old style serif typeface
@@ -540,7 +541,8 @@ layout: default
 
 ## Shell 
 
-- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and Pentium (P5) vintage PCs
+- [adsr/rw.rs](https://github.com/adsr/rw.rs) - free shell account and web 1.0 hosting @ http://rw.rs/~you
+- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and 586/Pentium (P5) vintage PCs
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [TartanLlama/actions-eleventy](https://github.com/TartanLlama/actions-eleventy) - GitHub Action for generating a static website with Eleventy
