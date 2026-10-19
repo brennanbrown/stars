@@ -359,7 +359,7 @@
 - [victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS](https://github.com/victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS) - 
 - [slimhk45/awesome-obsidian-alternatives](https://github.com/slimhk45/awesome-obsidian-alternatives) - A community-maintained directory of free and open-source Obsidian clones and the technologies used to build them. Our goal is to create a central hub for this part of the note-taking app ecosystem.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
+- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - Official Libre.fm project repo
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [pfefferle/awesome-indieweb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb stuff
@@ -497,7 +497,7 @@
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [philnash/jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web Monetization API payment pointers to your site
 - [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging) - Jekyll plugin to automatically generate a tag cloud and tag pages.
-- [benbarber/jekyll-instagram](https://github.com/benbarber/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
+- [benbxyz/jekyll-instagram](https://github.com/benbxyz/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [jeffreytse/jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship) - 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, soundcloud, spotify, etc.
 
