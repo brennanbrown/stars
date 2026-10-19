@@ -661,7 +661,7 @@
 
 ## instagram 
 
-- [benbarber/jekyll-instagram](https://github.com/benbarber/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
+- [benbxyz/jekyll-instagram](https://github.com/benbxyz/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
 - [artemsheludko/galada](https://github.com/artemsheludko/galada) - Galada is an easy and simple blog theme for Jekyll.
 
 ## ipfs 
@@ -733,7 +733,7 @@
 - [dcyfr/jekyll-piratesec](https://github.com/dcyfr/jekyll-piratesec) - A Seakpunk flavored Jekyll theme inspired by retro terminals.
 - [wemake-services/jekyll-theme-hackcss](https://github.com/wemake-services/jekyll-theme-hackcss) - Dead simple CSS framework now with Jekyll.
 - [dinhanhthi/simple-perso](https://github.com/dinhanhthi/simple-perso) - 🍒 A simple and beautiful personal jekyll theme.
-- [benbarber/jekyll-instagram](https://github.com/benbarber/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
+- [benbxyz/jekyll-instagram](https://github.com/benbxyz/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
 - [MooseTheRebel/awesome-static-hosting-and-cms](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms) - A collection of awesome static hosting & CMS providers
@@ -1019,7 +1019,7 @@
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [nipdep/portfolio](https://github.com/nipdep/portfolio) - Innovating with Intelligence: My AI Odyssey.
 - [s5hy25ni/s5hy25ni.github.io](https://github.com/s5hy25ni/s5hy25ni.github.io) - 
-- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
+- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - Official Libre.fm project repo
 - [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [clottman/link-in-bio-11ty](https://github.com/clottman/link-in-bio-11ty) - an Eleventy starter project for makings lists of links
 - [rrajath/org-retro-journal](https://github.com/rrajath/org-retro-journal) - Look back through the years at your org journal for the current date to see what you journaled about
@@ -1310,7 +1310,7 @@
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [SuzeShardlow/SuzeShardlow.github.io](https://github.com/SuzeShardlow/SuzeShardlow.github.io) - Rising Star In Technology Award Winner 2021 • Women In Software Power List 2020 • TechWomen 100 Award Winner 2020 • Coder • Technical Writer • Tech Event Host • Community Lead, Ladies Of Code
-- [benbarber/jekyll-instagram](https://github.com/benbarber/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
+- [benbxyz/jekyll-instagram](https://github.com/benbxyz/jekyll-instagram) - A Jekyll plugin for displaying your recent Instagram photos
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 
