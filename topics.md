@@ -561,7 +561,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [benbalter/jekyll-auth](https://github.com/benbalter/jekyll-auth) - A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization
 - [dwyl/dev-setup](https://github.com/dwyl/dev-setup) - ✈️ A quick-start guide for new engineers on how to set up their Dev environment
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
 ## github-api 
@@ -603,7 +602,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [jackdomleo7/Checka11y.css](https://github.com/jackdomleo7/Checka11y.css) - A CSS stylesheet to quickly highlight a11y concerns.
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNj
-- [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -799,7 +797,7 @@
 
 ## linux 
 
-- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and 586/Pentium (P5) vintage PCs
+- [SharktasticA/SHORK-486](https://github.com/SharktasticA/SHORK-486) - A Linux distribution for 486 and 586 vintage PCs
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1000,6 +998,7 @@
 
 ## others 
 
+- [Aki-108/Tassel](https://github.com/Aki-108/Tassel) - a framework for my Pillowfort extensions
 - [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
 - [timrichardson/timrichardson.github.io](https://github.com/timrichardson/timrichardson.github.io) - 
