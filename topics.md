@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -166,6 +167,11 @@
 ## 3d 
 
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
+
+## agentic-ai 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## agents 
 
@@ -1011,6 +1017,7 @@
 
 ## others 
 
+- [joshpuckett/allo](https://github.com/joshpuckett/allo) - Allo is your friendly neighborhood typeface, free and open source
 - [Aki-108/Tassel](https://github.com/Aki-108/Tassel) - a framework for my Pillowfort extensions
 - [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
