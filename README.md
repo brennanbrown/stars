@@ -451,6 +451,7 @@
 
 ## Python 
 
+- [joshpuckett/allo](https://github.com/joshpuckett/allo) - Allo is your friendly neighborhood typeface, free and open source
 - [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
 - [michael-lazar/astrobotany](https://github.com/michael-lazar/astrobotany) - 🌱 A community garden over the Gemini protocol
 - [productiontype/Newsreader](https://github.com/productiontype/Newsreader) - NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
