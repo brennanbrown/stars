@@ -135,6 +135,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -248,7 +249,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [lebriton/awesome-hackernews](https://github.com/lebriton/awesome-hackernews) - A curated list of FOSS tools to improve the Hacker News experience.
-- [buildawesome-one/awesome-11ty-buildawesome](https://github.com/buildawesome-one/awesome-11ty-buildawesome) - Awesome 11ty / Build Awesome 🕶️
+- [open-sveti/awesome-11ty-buildawesome](https://github.com/open-sveti/awesome-11ty-buildawesome) - Awesome 11ty (now Build Awesome) 🕶️
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
@@ -289,7 +290,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [lebriton/awesome-hackernews](https://github.com/lebriton/awesome-hackernews) - A curated list of FOSS tools to improve the Hacker News experience.
-- [buildawesome-one/awesome-11ty-buildawesome](https://github.com/buildawesome-one/awesome-11ty-buildawesome) - Awesome 11ty / Build Awesome 🕶️
+- [open-sveti/awesome-11ty-buildawesome](https://github.com/open-sveti/awesome-11ty-buildawesome) - Awesome 11ty (now Build Awesome) 🕶️
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es) - 📇 A little directory of people's personal sites
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
@@ -1038,7 +1039,6 @@
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [nipdep/portfolio](https://github.com/nipdep/portfolio) - Innovating with Intelligence: My AI Odyssey.
 - [s5hy25ni/s5hy25ni.github.io](https://github.com/s5hy25ni/s5hy25ni.github.io) - 
-- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - Official Libre.fm project repo
 - [simoncox/11ty-Simons-starter-pack](https://github.com/simoncox/11ty-Simons-starter-pack) - Blank 11ty starter
 - [clottman/link-in-bio-11ty](https://github.com/clottman/link-in-bio-11ty) - an Eleventy starter project for makings lists of links
 - [rrajath/org-retro-journal](https://github.com/rrajath/org-retro-journal) - Look back through the years at your org journal for the current date to see what you journaled about
@@ -1179,7 +1179,6 @@
 - [zzossig/hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) - Make a blog with hugo zzo theme!
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [imjasonh/quit.social](https://github.com/imjasonh/quit.social) - Just stay off the internet
-- [victoriadrake/neofeed-theme](https://github.com/victoriadrake/neofeed-theme) - A personal feed for Neocities, GitHub Pages, or anywhere else, built with Hugo. #IndieWeb friendly and all yours. It's better than Twitter.
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [kyrose/awesome-digital-gardens](https://github.com/kyrose/awesome-digital-gardens) - Inspirational digital gardens and resources for building your own 🍄🌻🌺🌿🌷🌼🌳🌻🌷🌼🌼🌻
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -1380,6 +1379,22 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## static-site-generator 
+
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
+- [PoshWeb/GitPub](https://github.com/PoshWeb/GitPub) - Easily Automate Publishing from GitHub
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
+- [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll) - Jekyll + PWA + IndieWeb. A starter for publishing your own content. Support for WebMentions, Service Workers and Netlify CMS is built in.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [roughike/welcomments-blog](https://github.com/roughike/welcomments-blog) - The legacy blog for Welcomments. See here for the new one: https://github.com/welcomments/website
+- [victoriadrake/neofeed-theme](https://github.com/victoriadrake/neofeed-theme) - A personal feed for Neocities, GitHub Pages, or anywhere else, built with Hugo. #IndieWeb friendly and all yours. It's better than Twitter.
+- [jamstack-cms/jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) - A starter project for building performant ECommerce applications with Next.js and React
+- [chrissy-dev/eleventy-web-starter](https://github.com/chrissy-dev/eleventy-web-starter) - Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS.
+- [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
 
 ## storybook 
 
