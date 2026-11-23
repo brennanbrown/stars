@@ -258,7 +258,6 @@
 - [aengusmcmillin/gatsby-theme-brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - 
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [AfroDevGirl/full-stack-accessibility](https://github.com/AfroDevGirl/full-stack-accessibility) - An example application for full stack accessibility
@@ -361,7 +360,6 @@
 - [victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS](https://github.com/victoria-bondarchuk/List-of-Academic-Research-on-Usability-in-FOSS) - 
 - [slimhk45/awesome-obsidian-alternatives](https://github.com/slimhk45/awesome-obsidian-alternatives) - A community-maintained directory of free and open-source Obsidian clones and the technologies used to build them. Our goal is to create a central hub for this part of the note-taking app ecosystem.
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - Official Libre.fm project repo
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [pfefferle/awesome-indieweb](https://github.com/pfefferle/awesome-indieweb) - A curated list of awesome IndieWeb stuff
@@ -402,9 +400,10 @@
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [mdo/jekyll-snippets](https://github.com/mdo/jekyll-snippets) - Library of commonly used snippets for Jekyll sites.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
-- [buildawesome-one/awesome-11ty-buildawesome](https://github.com/buildawesome-one/awesome-11ty-buildawesome) - Awesome 11ty / Build Awesome 🕶️
+- [open-sveti/awesome-11ty-buildawesome](https://github.com/open-sveti/awesome-11ty-buildawesome) - Awesome 11ty (now Build Awesome) 🕶️
 - [jeromecoupe/iad_eleventy_introduction](https://github.com/jeromecoupe/iad_eleventy_introduction) - An introduction to Eleventy (11ty)
 - [bt-rb/vscode-blogging-extension-pack](https://github.com/bt-rb/vscode-blogging-extension-pack) - A collection of extensions to enhance content curation and creation for VS Code + Bridgetown
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
